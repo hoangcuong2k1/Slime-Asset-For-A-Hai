@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4750250523217974253
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6933267554165014177
+  },
+  "m_Name": "",
+  "imgIcon": {
+    "m_FileID": 0,
+    "m_PathID": -6683510980125713787
+  },
+  "txtName": {
+    "m_FileID": 0,
+    "m_PathID": 1597772528636601834
+  },
+  "tmHandle": {
+    "m_FileID": 0,
+    "m_PathID": 745793813269669627
+  },
+  "pivotOn": {
+    "m_FileID": 0,
+    "m_PathID": -3050986214983366345
+  },
+  "pivotOff": {
+    "m_FileID": 0,
+    "m_PathID": -6580982755762138038
+  },
+  "onToggle": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 8592466096058033800
+          },
+          "m_TargetAssemblyTypeName": "LoadComplete.UI.SimpleButtonSfx, Assembly-CSharp",
+          "m_MethodName": "PlaySfx",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 3339473273700344423
+          },
+          "m_TargetAssemblyTypeName": "LoadComplete.UI.PopupSettings, Assembly-CSharp",
+          "m_MethodName": "OnToggleSleepMode",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

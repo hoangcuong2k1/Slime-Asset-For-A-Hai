@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5166400166510056691
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3667039382342402837
+  },
+  "m_Name": "",
+  "vfxTower": {
+    "m_FileID": 15,
+    "m_PathID": -3282924882992581163
+  },
+  "vfxArrow": {
+    "m_FileID": 15,
+    "m_PathID": -5667507407487648712
+  },
+  "vfxDelay": 0.96,
+  "prjTick": 6
+}

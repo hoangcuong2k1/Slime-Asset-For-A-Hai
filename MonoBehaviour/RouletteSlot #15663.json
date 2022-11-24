@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5822029840054877805
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8473075054397180242
+  },
+  "m_Name": "",
+  "amountText": {
+    "m_FileID": 0,
+    "m_PathID": -1345923290737585287
+  },
+  "rewardIcon": {
+    "m_FileID": 0,
+    "m_PathID": 5685820350283944241
+  },
+  "enabledBgObj": {
+    "m_FileID": 0,
+    "m_PathID": 6741445225710972931
+  }
+}

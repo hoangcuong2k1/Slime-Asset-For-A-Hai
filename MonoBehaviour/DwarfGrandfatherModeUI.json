@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4445652970556402981
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3441976091037031544
+  },
+  "m_Name": "",
+  "dungeonName": {
+    "m_FileID": 0,
+    "m_PathID": -1387621270520467650
+  },
+  "timeText": {
+    "m_FileID": 0,
+    "m_PathID": 5824715339243863673
+  },
+  "needlePivot": {
+    "m_FileID": 0,
+    "m_PathID": 7091392012572273744
+  },
+  "hpBar": {
+    "m_FileID": 0,
+    "m_PathID": 7908627145778864717
+  },
+  "hpBarLight": {
+    "m_FileID": 0,
+    "m_PathID": 358784290563817912
+  },
+  "rewardBoxRt": {
+    "m_FileID": 0,
+    "m_PathID": 7366881093101189516
+  },
+  "rewardAmountText": {
+    "m_FileID": 0,
+    "m_PathID": -3285787339961196868
+  }
+}

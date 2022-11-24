@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8429211786378813456
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "EquipmentPopup.EquipButton",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -1791490374009652600
+    },
+    "worldPosition": {
+      "x": 251.687592,
+      "y": 814.5121,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 205.6322,
+      "y": 84.8925
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

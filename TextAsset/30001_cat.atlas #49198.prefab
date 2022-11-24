@@ -1,0 +1,69 @@
+
+30001_cat.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cat_Body
+  rotate: true
+  xy: 67, 12
+  size: 47, 34
+  orig: 49, 36
+  offset: 1, 1
+  index: -1
+Cat_Eye
+  rotate: false
+  xy: 183, 13
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+Cat_Face
+  rotate: false
+  xy: 2, 3
+  size: 63, 56
+  orig: 65, 58
+  offset: 1, 1
+  index: -1
+Cat_Foot
+  rotate: true
+  xy: 165, 5
+  size: 35, 16
+  orig: 37, 18
+  offset: 1, 1
+  index: -1
+Cat_Mouth
+  rotate: true
+  xy: 183, 30
+  size: 29, 19
+  orig: 31, 21
+  offset: 1, 1
+  index: -1
+Cat_Tail
+  rotate: false
+  xy: 141, 24
+  size: 28, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Face2
+  rotate: false
+  xy: 103, 2
+  size: 60, 19
+  orig: 62, 21
+  offset: 1, 1
+  index: -1
+L_eye2
+  rotate: false
+  xy: 103, 23
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+R_eye2
+  rotate: false
+  xy: 103, 23
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1

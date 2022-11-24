@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1404378811824160780
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3101127834525078891
+  },
+  "m_Name": "",
+  "smokeVfx": {
+    "m_FileID": 0,
+    "m_PathID": 6683885459452111856
+  },
+  "logPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3753031756732644566
+  },
+  "explosionVfx": {
+    "m_FileID": 0,
+    "m_PathID": 1242305224056000694
+  }
+}

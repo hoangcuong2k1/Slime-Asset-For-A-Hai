@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7366290571601817769
+  },
+  "m_Name": "VillageDungeonData",
+  "currencyType": 7,
+  "maxTicket": 20,
+  "refillTicket": 2,
+  "useAdRefill": 1,
+  "maxAdCount": 2,
+  "adType": 12,
+  "dungeonInfoUIPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -1653311438316965529
+  },
+  "dungeonEntranceAnimatorPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -7269656387348083758
+  },
+  "backgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": -617855808161903088
+  },
+  "ticketIconSprite": {
+    "m_FileID": 0,
+    "m_PathID": -6843848257575582580
+  },
+  "popupBannerSprite": {
+    "m_FileID": 0,
+    "m_PathID": 8628014845321002029
+  },
+  "nameKey": "DUNGEON_NAME_PLUNDER",
+  "descKey": "DUNGEON_DESC_PLUNDER"
+}

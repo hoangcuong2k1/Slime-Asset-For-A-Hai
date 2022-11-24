@@ -1,0 +1,13 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7371171784076735397
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4705255670138841947
+  },
+  "m_Name": "",
+  "bindKey": "GaugeSlider"
+}

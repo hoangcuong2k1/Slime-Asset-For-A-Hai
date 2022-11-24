@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 958896292749233829
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4776882142093204921
+  },
+  "m_Name": "",
+  "m_Delegates": [
+    {
+      "eventID": 4,
+      "callback": {
+        "m_PersistentCalls": {
+          "m_Calls": [
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -6784774367578484880
+              },
+              "m_TargetAssemblyTypeName": "UnityEngine.GameObject, UnityEngine",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": -489239706063441338
+              },
+              "m_TargetAssemblyTypeName": "UnityEngine.GameObject, UnityEngine",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": 5562294626654586366
+              },
+              "m_TargetAssemblyTypeName": "UnityEngine.GameObject, UnityEngine",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            },
+            {
+              "m_Target": {
+                "m_FileID": 0,
+                "m_PathID": 958896292749233829
+              },
+              "m_TargetAssemblyTypeName": "UnityEngine.GameObject, UnityEngine",
+              "m_MethodName": "SetActive",
+              "m_Mode": 6,
+              "m_Arguments": {
+                "m_ObjectArgument": {
+                  "m_FileID": 0,
+                  "m_PathID": 0
+                },
+                "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+                "m_IntArgument": 0,
+                "m_FloatArgument": 0.0,
+                "m_StringArgument": "",
+                "m_BoolArgument": 0
+              },
+              "m_CallState": 2
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

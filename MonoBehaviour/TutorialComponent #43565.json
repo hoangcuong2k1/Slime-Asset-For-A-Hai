@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6877066915466265895
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "SlimeArtifactToggle",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 8860996592303868718
+    },
+    "worldPosition": {
+      "x": 360.0,
+      "y": -536.18,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 117.7,
+      "y": 80.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

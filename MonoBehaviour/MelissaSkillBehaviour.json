@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4189477317710863377
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5359986355036272118
+  },
+  "m_Name": "",
+  "beePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -5461387024365609737
+  },
+  "elipsisWidth": 1.8,
+  "elipsisHeight": 0.9,
+  "elipsisHigh": 1.1,
+  "interval": 1.8
+}

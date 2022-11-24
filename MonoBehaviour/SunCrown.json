@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8697965008610833059
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4556674202305963713
+  },
+  "m_Name": "",
+  "missileTurretSkillRef": {
+    "m_AssetGUID": "49de2b3627f1d6e45a580582a2d6773d",
+    "m_SubObjectName": "",
+    "m_SubObjectType": ""
+  }
+}

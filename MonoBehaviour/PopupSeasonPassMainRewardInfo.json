@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6986345220063276033
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5524093074181674645
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -2932735914820410111
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 8018519518493534293
+  },
+  "decoPlace": {
+    "m_FileID": 0,
+    "m_PathID": -4035233701182826641
+  },
+  "slimeSkeleton": {
+    "m_FileID": 0,
+    "m_PathID": -3018933205221558193
+  },
+  "imgGlow": {
+    "m_FileID": 0,
+    "m_PathID": -820654933476280846
+  },
+  "imgRarity": {
+    "m_FileID": 0,
+    "m_PathID": 3451804789129993350
+  },
+  "slimeTitle": {
+    "m_FileID": 0,
+    "m_PathID": -4474762008933420864
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4259361269941927217
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4546328733489148593
+  },
+  "m_Name": "",
+  "reaperSkillRef": {
+    "m_AssetGUID": "49495d9f04a10a64aad82705016f9184",
+    "m_SubObjectName": "",
+    "m_SubObjectType": ""
+  }
+}

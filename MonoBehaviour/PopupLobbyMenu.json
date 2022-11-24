@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5359057019965007029
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8923319602446247488
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -2057035791062403811
+  },
+  "context": {
+    "m_FileID": 0,
+    "m_PathID": 7365932799184633885
+  },
+  "mailRedDots": [
+    {
+      "m_FileID": 6,
+      "m_PathID": 3556360827008519373
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": -5048563470408668206
+    }
+  ],
+  "menuPlace": {
+    "m_FileID": 0,
+    "m_PathID": -4415637291271455993
+  },
+  "contentTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7929387056364147640
+  },
+  "sizeHandler": {
+    "m_FileID": 0,
+    "m_PathID": 1023999165096659804
+  },
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 5552005116915257350
+  },
+  "preferWidth": 330.0,
+  "appearDuration": 0.25,
+  "disappearDuration": 0.16,
+  "appearEase": 15,
+  "disappearEase": 5
+}

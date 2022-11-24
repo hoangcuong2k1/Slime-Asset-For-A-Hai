@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6225813951008247205
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4981233178033201690
+  },
+  "m_Name": "",
+  "activeGroup": {
+    "m_FileID": 0,
+    "m_PathID": 1267767296506159624
+  },
+  "hitCollider": {
+    "m_FileID": 0,
+    "m_PathID": -733681816221982366
+  },
+  "muzzleAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -926711194960716205
+  },
+  "laserAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 4124413370297130147
+  },
+  "groundHitAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3896644181278530253
+  },
+  "appearClip": "effect_on",
+  "disappearClip": "effect_off",
+  "idleClip": "effect_idle",
+  "hitParticle": {
+    "m_FileID": 0,
+    "m_PathID": 4656506795387356765
+  },
+  "startPointTf": {
+    "m_FileID": 0,
+    "m_PathID": -5918781313656665861
+  },
+  "laserTf": {
+    "m_FileID": 0,
+    "m_PathID": -7223065513230308409
+  },
+  "endPointTf": {
+    "m_FileID": 0,
+    "m_PathID": -5331997457340663063
+  }
+}

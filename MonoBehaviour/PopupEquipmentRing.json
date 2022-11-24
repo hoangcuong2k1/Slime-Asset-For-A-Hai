@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8463035754284561850
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8090303132430983297
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -497015252835835823
+  },
+  "context": {
+    "m_FileID": 0,
+    "m_PathID": -8397673992417122006
+  },
+  "scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 4159284651746625795
+  },
+  "breakupButtonIconRt": {
+    "m_FileID": 0,
+    "m_PathID": 4992992460799746734
+  },
+  "UpgradeSfx": {
+    "m_FileID": 0,
+    "m_PathID": -5599797519441250985
+  },
+  "UpgradeTweens": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1794023785339861758
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6138268089510506095
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1761334896737456792
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6913042132118998973
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6304157518508439766
+    }
+  ]
+}

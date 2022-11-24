@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5034937734924227458
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2303817331841438540
+  },
+  "m_Name": "",
+  "m_RootBone": {
+    "m_FileID": 0,
+    "m_PathID": 8492306923286265497
+  },
+  "m_BoneTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8492306923286265497
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6689969368186500247
+    }
+  ],
+  "m_Bounds": {
+    "m_Center": {
+      "x": -0.000325001776,
+      "y": -0.0013050288,
+      "z": 0.0
+    },
+    "m_Extent": {
+      "x": 0.09467499,
+      "y": 0.148694992,
+      "z": 0.0
+    }
+  },
+  "m_UseBatching": 1,
+  "m_AlwaysUpdate": 1
+}

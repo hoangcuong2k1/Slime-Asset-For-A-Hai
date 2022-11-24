@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7571245570905046718
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6132193612059839375
+  },
+  "m_Name": "",
+  "timerKey": "MineResearchSkipTimerKey",
+  "formatType": 0
+}

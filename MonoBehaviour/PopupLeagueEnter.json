@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8776831271414705480
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2923505352058823841
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 7971205159674966794
+  },
+  "context": {
+    "m_FileID": 0,
+    "m_PathID": 3902623839284572095
+  },
+  "remainTimeText": {
+    "m_FileID": 0,
+    "m_PathID": 4702464421694295875
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8170520151118786279
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5355788244788843215
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 6318508075724382696
+  },
+  "progressGauge": {
+    "m_FileID": 0,
+    "m_PathID": 6402639399147986150
+  },
+  "ringOptionScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 103616252815910677
+  },
+  "confirmButtonRt": {
+    "m_FileID": 0,
+    "m_PathID": -7217615812217720983
+  },
+  "appearSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -4580866197681029292
+    },
+    "volume": 0.8
+  },
+  "appearSfx2": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -7281945295929628626
+    },
+    "volume": 0.7
+  }
+}

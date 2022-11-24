@@ -1,0 +1,20 @@
+
+laser_effect3.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Razer2_1
+  rotate: false
+  xy: 2, 2
+  size: 72, 122
+  orig: 72, 122
+  offset: 0, 0
+  index: -1
+Razer2_2
+  rotate: false
+  xy: 76, 2
+  size: 34, 122
+  orig: 34, 122
+  offset: 0, 0
+  index: -1

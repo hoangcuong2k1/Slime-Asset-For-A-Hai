@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6117506230365944743
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -734716882406249652
+  },
+  "m_Name": "",
+  "_navigator": {
+    "m_FileID": 0,
+    "m_PathID": 4907228888801548272
+  },
+  "_tweenDuration": 0.35,
+  "_zoomEase": 9,
+  "_focusedCameraSize": 4.5,
+  "_focusedCameraOffset": {
+    "x": 0.0,
+    "y": -0.4
+  }
+}

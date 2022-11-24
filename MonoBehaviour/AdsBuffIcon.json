@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4074462391637029917
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4461639694234221185
+  },
+  "m_Name": "",
+  "buffType": 2,
+  "goActiveGroup": {
+    "m_FileID": 0,
+    "m_PathID": -1033372284492005608
+  },
+  "cgActiveState": {
+    "m_FileID": 0,
+    "m_PathID": 1226987331710265064
+  }
+}

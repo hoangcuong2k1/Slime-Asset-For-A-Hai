@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5588309447665472782
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8039212482668638311
+  },
+  "m_Name": "",
+  "_projectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -3554157925310362437
+  },
+  "_buffProjectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -220946692246410961
+  },
+  "buffSpeedMultiplier": 1.6,
+  "speed": 9.0,
+  "randomizeY": 1.3,
+  "onHitEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4000812631642123336
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2765568706372599266
+  },
+  "m_Name": "",
+  "m_ItemKey": "item",
+  "m_ItemPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "useLeanPool": 1,
+  "useLeanGameObjectPool": 1,
+  "gameObjectPool": {
+    "m_FileID": 0,
+    "m_PathID": 3545379070062116020
+  },
+  "m_Key": "LeaguePlayerItems"
+}

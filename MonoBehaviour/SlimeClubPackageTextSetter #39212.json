@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5830646462963715209
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2223001543739688463
+  },
+  "m_Name": "",
+  "dailyGemText": {
+    "m_FileID": 0,
+    "m_PathID": -7052292601366094893
+  },
+  "dailyPickAxeText": {
+    "m_FileID": 0,
+    "m_PathID": 463222665180784985
+  },
+  "quickRaidText": {
+    "m_FileID": 0,
+    "m_PathID": 1123288057669233025
+  },
+  "slimeLegionBonusText": {
+    "m_FileID": 0,
+    "m_PathID": 7656693740580318025
+  },
+  "dailyGemValueText": {
+    "m_FileID": 0,
+    "m_PathID": -8791937960469087587
+  },
+  "dailyPickAxeValueText": {
+    "m_FileID": 0,
+    "m_PathID": -5431574393583208993
+  },
+  "remainTimeText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "shopProductSlot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

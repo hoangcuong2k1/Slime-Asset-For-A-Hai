@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3991824717022117305
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 5430390970507557720
+  },
+  "m_Name": "",
+  "onEnable": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onChangedRedDotActive": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -1470396122142133559
+          },
+          "m_TargetAssemblyTypeName": "LoadComplete.UI.RedDotAnimator, Assembly-CSharp",
+          "m_MethodName": "OnChangedEnable",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "redDotObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -731310856057333052
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 720274590604135425
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8051594291816400678
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1765409548471213490
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5985410214902059787
+    }
+  ]
+}

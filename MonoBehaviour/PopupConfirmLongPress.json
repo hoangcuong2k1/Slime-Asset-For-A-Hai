@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 947490320253410553
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3980353909681425230
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 7441942286371791369
+  },
+  "title": {
+    "m_FileID": 0,
+    "m_PathID": -4533153264732523762
+  },
+  "desc": {
+    "m_FileID": 0,
+    "m_PathID": 4212180135598191924
+  },
+  "pressDesc": {
+    "m_FileID": 0,
+    "m_PathID": 8567343350719020568
+  },
+  "gauge": {
+    "m_FileID": 0,
+    "m_PathID": -3385507035650700025
+  }
+}

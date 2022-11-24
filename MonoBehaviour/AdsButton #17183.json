@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7407674568898980182
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8818398452539716894
+  },
+  "m_Name": "",
+  "normalObj": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4686731414728147279
+    }
+  ],
+  "passAdsObj": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7527027703091857462
+    }
+  ]
+}

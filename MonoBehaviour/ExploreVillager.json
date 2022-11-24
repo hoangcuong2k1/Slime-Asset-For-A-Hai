@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6388957044958151562
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1355322884500033959
+  },
+  "m_Name": "",
+  "_spine": {
+    "m_FileID": 0,
+    "m_PathID": -94974746947005382
+  },
+  "_randomSkins": [
+    "1chapter/newbie",
+    "1chapter/boss3",
+    "2chapter/boss1",
+    "2chapter/boss2",
+    "2chapter/boss3",
+    "2chapter/newbie",
+    "3chapter/newbie",
+    "4chapter/newbie",
+    "NPC/rich",
+    "NPC/spider",
+    "villager/villager1",
+    "villager/villager2"
+  ],
+  "_moveDuration": {
+    "x": 0.6,
+    "y": 5.0
+  },
+  "_idleDuration": {
+    "x": 0.8,
+    "y": 3.0
+  },
+  "_moveSpeed": 0.15,
+  "_randomOffset": 0.2
+}

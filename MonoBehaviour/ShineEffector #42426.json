@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4268544205605235796
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3780199226071656789
+  },
+  "m_Name": "",
+  "effector": {
+    "m_FileID": 0,
+    "m_PathID": -2405037046209457207
+  },
+  "effectRoot": {
+    "m_FileID": 0,
+    "m_PathID": 5966875710483916353
+  },
+  "yOffset": -1.0,
+  "width": 0.6
+}

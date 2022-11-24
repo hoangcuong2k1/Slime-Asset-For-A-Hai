@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7478014577370457366
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 798681242673114893
+  },
+  "m_Name": "",
+  "deselectWithNothing": 0,
+  "limit": 0,
+  "maxSelectables": 5,
+  "reselect": 0,
+  "selectables": [],
+  "onSelected": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onDeselected": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onNothing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "ScreenQuery": {
+    "Method": 0,
+    "Layers": {
+      "m_Bits": 32
+    },
+    "Search": 1,
+    "RequiredTag": "",
+    "Camera": {
+      "m_FileID": 0,
+      "m_PathID": 1395509275657316216
+    },
+    "Distance": 50.0
+  },
+  "deselectWithFingers": 1,
+  "onSelectedFinger": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

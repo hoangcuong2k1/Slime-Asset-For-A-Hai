@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5539055854626515239
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1449891033392876518
+  },
+  "m_Name": "",
+  "setNativeSize": 1,
+  "syncPivot": 0,
+  "m_Key": "SlimeRarityIcon"
+}

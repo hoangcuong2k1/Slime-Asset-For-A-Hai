@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5524292250290816252
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5896478809686236892
+  },
+  "m_Name": "",
+  "characters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2041957062524915881
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8243178252530784139
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 174523051654834193
+    }
+  ],
+  "maxminX": [
+    -267.0,
+    267.0
+  ],
+  "moveDuration": 6.5,
+  "jumpDuration": 0.25,
+  "isWalk": 1,
+  "isJump": 0
+}

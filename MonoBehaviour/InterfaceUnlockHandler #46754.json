@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3054347565250980344
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2793829366360182751
+  },
+  "m_Name": "",
+  "interfaceName": "ChangeSlime",
+  "lockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1086069485690416219
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5034237140742811742
+    }
+  ],
+  "unlockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8832400309182863215
+    }
+  ]
+}

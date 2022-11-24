@@ -1,0 +1,173 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1306015964920944225
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5463134508830826889
+  },
+  "m_Name": "",
+  "mineCamShakeTransform": {
+    "m_FileID": 0,
+    "m_PathID": 4080082612005142920
+  },
+  "mineCam": {
+    "m_FileID": 0,
+    "m_PathID": 920713317998338101
+  },
+  "mineDimmedCam": {
+    "m_FileID": 0,
+    "m_PathID": 8344355590428084380
+  },
+  "mineDimmedRawImage": {
+    "m_FileID": 0,
+    "m_PathID": -4023738613224483841
+  },
+  "mineGrid": {
+    "m_FileID": 0,
+    "m_PathID": 5766721173217215869
+  },
+  "backgroundParent": {
+    "m_FileID": 0,
+    "m_PathID": -121365973348582156
+  },
+  "objectParent": {
+    "m_FileID": 0,
+    "m_PathID": 82907529533330426
+  },
+  "highlightEnableColor": {
+    "r": 0.294117659,
+    "g": 1.0,
+    "b": 0.239215687,
+    "a": 1.0
+  },
+  "highlightDisableColor": {
+    "r": 0.843137264,
+    "g": 0.152941182,
+    "b": 0.152941182,
+    "a": 1.0
+  },
+  "tilemapByLayer": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8050140158573549716
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4764244048538473190
+    }
+  ],
+  "dimmedTilemap": {
+    "m_FileID": 0,
+    "m_PathID": 5682543421709109165
+  },
+  "dirtTile": {
+    "m_FileID": 0,
+    "m_PathID": -247343319236503223
+  },
+  "stoneTile": {
+    "m_FileID": 0,
+    "m_PathID": 8838665020240738368
+  },
+  "dimmedTile": {
+    "m_FileID": 0,
+    "m_PathID": -3992580050239338366
+  },
+  "getRewardSfx": {
+    "clip": {
+      "m_FileID": 13,
+      "m_PathID": 9110091010761226735
+    },
+    "volume": 0.85
+  },
+  "destroyDirtSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -4024820934808788143
+    },
+    "volume": 0.9
+  },
+  "destroyStoneSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -1973963553135106321
+    },
+    "volume": 0.7
+  },
+  "drillExplosionSfx": {
+    "clip": {
+      "m_FileID": 6,
+      "m_PathID": -2246630997745302105
+    },
+    "volume": 0.6
+  },
+  "bombExplosionSfx": {
+    "clip": {
+      "m_FileID": 6,
+      "m_PathID": -2246630997745302105
+    },
+    "volume": 0.85
+  },
+  "dirtDestroyVfxPool": {
+    "m_FileID": 0,
+    "m_PathID": -6067263892157163873
+  },
+  "stoneDestroyVfxPool": {
+    "m_FileID": 0,
+    "m_PathID": 807443674273407208
+  },
+  "tileBonusSpritePool": {
+    "m_FileID": 0,
+    "m_PathID": -3965045584098928452
+  },
+  "highlightPool": {
+    "m_FileID": 0,
+    "m_PathID": 5473880162030207105
+  },
+  "healthBarPool": {
+    "m_FileID": 0,
+    "m_PathID": 2036766625923977197
+  },
+  "crash1Pool": {
+    "m_FileID": 0,
+    "m_PathID": 7044770370660376899
+  },
+  "crash2Pool": {
+    "m_FileID": 0,
+    "m_PathID": 1836192917804117833
+  },
+  "explosionPool": {
+    "m_FileID": 0,
+    "m_PathID": -2927846557511201275
+  },
+  "pickaxeWorkerPool": {
+    "m_FileID": 0,
+    "m_PathID": -1363043497169107317
+  },
+  "drillWorkerPool": {
+    "m_FileID": 0,
+    "m_PathID": -5375564561482088498
+  },
+  "bombWorkerPool": {
+    "m_FileID": 0,
+    "m_PathID": 4141054929639598796
+  },
+  "ruinsImagePool": {
+    "m_FileID": 0,
+    "m_PathID": -1061948970417772145
+  },
+  "decoRock1Pool": {
+    "m_FileID": 0,
+    "m_PathID": -2006928821427207420
+  },
+  "decoRock2Pool": {
+    "m_FileID": 0,
+    "m_PathID": 7967003969217176
+  },
+  "decoRock3Pool": {
+    "m_FileID": 0,
+    "m_PathID": 6630314792776109493
+  }
+}

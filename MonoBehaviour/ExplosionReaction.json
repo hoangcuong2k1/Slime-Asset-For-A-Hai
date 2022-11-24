@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3542414766084358426
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2493071763928523360
+  },
+  "m_Name": "",
+  "rb2D": {
+    "m_FileID": 0,
+    "m_PathID": 7540993248028873463
+  },
+  "rotateTransform": {
+    "m_FileID": 0,
+    "m_PathID": 5271499178606299259
+  },
+  "skeletonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -6025498300986863673
+  },
+  "animationName": "scare_panic"
+}

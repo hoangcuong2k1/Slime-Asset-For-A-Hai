@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9040687863264385140
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2793829366360182751
+  },
+  "m_Name": "",
+  "interfaceName": "SkillInfoButton",
+  "lockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2985470076804318564
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8032879683527974256
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4913876019650950219
+    }
+  ],
+  "unlockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7740550163364058611
+    }
+  ]
+}

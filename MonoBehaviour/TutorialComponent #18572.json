@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9130209564413772546
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "CloseSkill",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -1883393797631321974
+    },
+    "worldPosition": {
+      "x": 360.0,
+      "y": 330.0,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 102.0,
+      "y": 109.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

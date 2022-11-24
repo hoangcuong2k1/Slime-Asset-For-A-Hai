@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1323631877323774107
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1449891033392876518
+  },
+  "m_Name": "",
+  "setNativeSize": 1,
+  "syncPivot": 0,
+  "m_Key": "TierIconSprite"
+}

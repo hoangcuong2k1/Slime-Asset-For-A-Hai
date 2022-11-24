@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6680342027639684716
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6422914844348769315
+  },
+  "m_Name": "",
+  "bg": {
+    "m_FileID": 0,
+    "m_PathID": 8357512639005411025
+  },
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": -4832772084086785918
+  },
+  "level": {
+    "m_FileID": 0,
+    "m_PathID": -1404563728827689000
+  },
+  "infinite": {
+    "m_FileID": 0,
+    "m_PathID": 8293852797768698664
+  },
+  "max": {
+    "m_FileID": 0,
+    "m_PathID": -440933075279436730
+  },
+  "outline": {
+    "m_FileID": 0,
+    "m_PathID": 5507971741603864432
+  }
+}

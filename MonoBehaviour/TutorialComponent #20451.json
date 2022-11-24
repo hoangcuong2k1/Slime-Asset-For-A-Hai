@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7961316413868286664
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "LeagueMaterialResult",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -4938577554637812382
+    },
+    "worldPosition": {
+      "x": 0.9629229,
+      "y": -0.141870648,
+      "z": 90.0
+    },
+    "rectSize": {
+      "x": 250.95,
+      "y": 285.63
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

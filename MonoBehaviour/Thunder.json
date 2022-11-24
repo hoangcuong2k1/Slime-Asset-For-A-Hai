@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2987566456400007117
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1089950248493164906
+  },
+  "m_Name": "",
+  "thunderVfxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -7694324818465183024
+  },
+  "thunderSfx": {
+    "m_FileID": 2,
+    "m_PathID": 6146094724698625660
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7179110391638843286
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 258478329350359321
+  },
+  "m_Name": "",
+  "customToggle": 1,
+  "sfxType": 0,
+  "customSfx": {
+    "m_FileID": 44,
+    "m_PathID": 9110091010761226735
+  }
+}

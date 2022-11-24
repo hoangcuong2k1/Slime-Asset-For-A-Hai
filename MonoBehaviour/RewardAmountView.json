@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8170667220892570477
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 902540342729547036
+  },
+  "m_Name": "",
+  "moveUpAmount": 70.0,
+  "moveUpDuration": 1.5,
+  "fadeOutDuration": 0.5
+}

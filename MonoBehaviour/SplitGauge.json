@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3710803644902508218
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7974676561909780477
+  },
+  "m_Name": "",
+  "itemParent": {
+    "m_FileID": 0,
+    "m_PathID": 5088239859210914509
+  },
+  "itemPoolConfigs": [
+    {
+      "key": "Item",
+      "pool": {
+        "m_FileID": 0,
+        "m_PathID": 8012967992584695177
+      }
+    }
+  ]
+}

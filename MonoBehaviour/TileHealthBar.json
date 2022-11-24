@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3628598680970319666
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6911126069742127665
+  },
+  "m_Name": "",
+  "fgFillRt": {
+    "m_FileID": 0,
+    "m_PathID": -2729210641387390497
+  },
+  "bgFillRt": {
+    "m_FileID": 0,
+    "m_PathID": -2765470513998514379
+  }
+}

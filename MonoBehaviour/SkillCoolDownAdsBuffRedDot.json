@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6300065473162582581
+  },
+  "m_Name": "SkillCoolDownAdsBuffRedDot",
+  "iconType": 0,
+  "sortOrder": 0
+}

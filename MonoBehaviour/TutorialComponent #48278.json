@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4278061105039122197
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "MineButton",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 6786767457594765627
+    },
+    "worldPosition": {
+      "x": 558.5,
+      "y": 470.5,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 165.0,
+      "y": 100.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2199987108675760712
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "CloseGachaResult",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 1962123708163962921
+    },
+    "worldPosition": {
+      "x": 203.5,
+      "y": 100.0,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 108.0,
+      "y": 108.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

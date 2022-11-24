@@ -1,0 +1,547 @@
+{
+  "skeleton": {
+    "hash": "hGRZY5553H4Y73R9GX+awqIVmug",
+    "spine": "3.8.94",
+    "x": -271.49,
+    "y": -96.6,
+    "width": 390,
+    "height": 373,
+    "images": "./images/",
+    "audio": "C:/work/Slime Suvival/UI/레벨업 연출 오크"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "body",
+      "parent": "root",
+      "length": 120.12,
+      "rotation": 90,
+      "x": 8.96,
+      "y": -90.5
+    },
+    {
+      "name": "head",
+      "parent": "body",
+      "length": 35.88,
+      "rotation": -0.83,
+      "x": 146.52,
+      "y": -14.79,
+      "transform": "noScale"
+    },
+    {
+      "name": "body2",
+      "parent": "body",
+      "length": 187.56,
+      "rotation": 62.66,
+      "x": 105.72,
+      "y": 0.84,
+      "transform": "noScale"
+    },
+    {
+      "name": "trumpet",
+      "parent": "body2",
+      "length": 134.94,
+      "rotation": 19.37,
+      "x": 71.34,
+      "y": -27.23
+    },
+    {
+      "name": "trumpet3",
+      "parent": "trumpet",
+      "length": 80.16,
+      "rotation": -3.63,
+      "x": 135.46,
+      "y": -50
+    },
+    {
+      "name": "nose",
+      "parent": "head",
+      "rotation": -6.56,
+      "x": 35.68,
+      "y": 60.01
+    },
+    {
+      "name": "R_eye",
+      "parent": "head",
+      "rotation": -6.06,
+      "x": 73.2,
+      "y": 47.27
+    },
+    {
+      "name": "Face_acc",
+      "parent": "head",
+      "rotation": -11.44,
+      "x": 61.68,
+      "y": 39.22
+    },
+    {
+      "name": "L_hand",
+      "parent": "body2",
+      "rotation": -71.51,
+      "x": 165.71,
+      "y": 2.47
+    },
+    {
+      "name": "R_hand",
+      "parent": "trumpet",
+      "rotation": -89.92,
+      "x": 13.97,
+      "y": 30.22
+    }
+  ],
+  "slots": [
+    {
+      "name": "R_ear",
+      "bone": "head",
+      "attachment": "R_ear"
+    },
+    {
+      "name": "L_ear",
+      "bone": "head",
+      "attachment": "L_ear"
+    },
+    {
+      "name": "body",
+      "bone": "body",
+      "attachment": "body"
+    },
+    {
+      "name": "head",
+      "bone": "head",
+      "attachment": "head"
+    },
+    {
+      "name": "L_hand",
+      "bone": "L_hand",
+      "attachment": "L_hand"
+    },
+    {
+      "name": "trumpet",
+      "bone": "trumpet3",
+      "attachment": "trumpet"
+    },
+    {
+      "name": "Face_acc",
+      "bone": "Face_acc",
+      "attachment": "Face_acc"
+    },
+    {
+      "name": "R_eye",
+      "bone": "R_eye",
+      "attachment": "R_eye"
+    },
+    {
+      "name": "L_eye",
+      "bone": "R_eye",
+      "attachment": "L_eye"
+    },
+    {
+      "name": "nose",
+      "bone": "nose",
+      "attachment": "nose"
+    },
+    {
+      "name": "R_hand",
+      "bone": "R_hand",
+      "attachment": "R_hand"
+    },
+    {
+      "name": "cap",
+      "bone": "head",
+      "attachment": "cap"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Face_acc": {
+          "Face_acc": {
+            "x": 0.48,
+            "y": -1.52,
+            "rotation": -77.73,
+            "width": 115,
+            "height": 58
+          }
+        },
+        "L_ear": {
+          "L_ear": {
+            "x": 126.5,
+            "y": 61.57,
+            "rotation": -89.17,
+            "width": 91,
+            "height": 96
+          }
+        },
+        "L_eye": {
+          "L_eye": {
+            "x": 12.86,
+            "y": 18.71,
+            "rotation": -83.11,
+            "width": 28,
+            "height": 49
+          }
+        },
+        "L_hand": {
+          "L_hand": {
+            "x": 0.96,
+            "y": 1.95,
+            "rotation": -81.15,
+            "width": 87,
+            "height": 86
+          }
+        },
+        "R_ear": {
+          "R_ear": {
+            "x": 114.09,
+            "y": -48.12,
+            "rotation": -89.17,
+            "width": 90,
+            "height": 96
+          }
+        },
+        "R_eye": {
+          "R_eye": {
+            "x": 12.75,
+            "y": -22.1,
+            "rotation": -83.11,
+            "width": 29,
+            "height": 49
+          }
+        },
+        "R_hand": {
+          "R_hand": {
+            "x": 1.09,
+            "y": 0.88,
+            "rotation": -82.11,
+            "width": 86,
+            "height": 86
+          }
+        },
+        "body": {
+          "body": {
+            "x": 88.4,
+            "y": -0.56,
+            "rotation": -90,
+            "width": 182,
+            "height": 189
+          }
+        },
+        "cap": {
+          "cap": {
+            "x": 166.43,
+            "y": -1.85,
+            "rotation": -89.17,
+            "width": 83,
+            "height": 108
+          }
+        },
+        "head": {
+          "head": {
+            "x": 53.6,
+            "y": 19.51,
+            "rotation": -89.17,
+            "width": 201,
+            "height": 177
+          }
+        },
+        "nose": {
+          "nose": {
+            "x": 7.26,
+            "y": -2.84,
+            "rotation": -82.61,
+            "width": 101,
+            "height": 76
+          }
+        },
+        "trumpet": {
+          "trumpet": {
+            "width": 233,
+            "height": 129
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "attack": {
+      "bones": {
+        "root": {
+          "translate": [
+            {
+              "x": -2,
+              "y": 0,
+              "curve": 0.344,
+              "c3": 0.656
+            },
+            {
+              "time": 0.1,
+              "x": 10,
+              "y": 0,
+              "curve": 0.344,
+              "c3": 0.656
+            },
+            {
+              "time": 0.3
+            }
+          ]
+        },
+        "L_hand": {
+          "translate": [
+            {
+              "x": -2.07,
+              "y": -0.69,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 1.89,
+              "y": 0.63,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "x": -0.09,
+              "y": -0.03,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3
+            }
+          ]
+        },
+        "body": {
+          "scale": [
+            {
+              "x": 1.022,
+              "y": 1.022,
+              "curve": 0.344,
+              "c3": 0.656
+            },
+            {
+              "time": 0.12,
+              "x": 0.993,
+              "y": 0.993,
+              "curve": 0.344,
+              "c3": 0.656
+            },
+            {
+              "time": 0.3
+            }
+          ]
+        },
+        "R_eye": {
+          "translate": [
+            {
+              "x": 0.17,
+              "y": 1.44,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 0.42,
+              "y": 3.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "x": 0.28,
+              "y": 2.46,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3
+            }
+          ]
+        },
+        "Face_acc": {
+          "scale": [
+            {
+              "x": 0.961,
+              "y": 0.961,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 1.037,
+              "y": 1.037,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3
+            }
+          ]
+        },
+        "nose": {
+          "translate": [
+            {
+              "x": 0.17,
+              "y": 1.44,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 0.52,
+              "y": 4.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "x": 0.28,
+              "y": 2.46,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.961,
+              "y": 0.961,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 1.037,
+              "y": 1.037,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3
+            }
+          ]
+        },
+        "trumpet": {
+          "translate": [
+            {
+              "x": -1,
+              "y": -0.35,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 1.07,
+              "y": 0.38,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3
+            }
+          ]
+        },
+        "trumpet3": {
+          "scale": [
+            {
+              "x": 0.867,
+              "y": 1.115,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 1.282,
+              "y": 0.966,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3
+            }
+          ],
+          "translate": [
+            {
+              "x": -5,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 10,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "x": 0,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3
+            }
+          ]
+        }
+      }
+    },
+    "idle": {},
+    "move": {
+      "bones": {
+        "L_hand": {
+          "rotate": [
+            {
+              "angle": 35,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6
+            }
+          ],
+          "translate": [
+            {
+              "x": -30,
+              "y": 50,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6
+            }
+          ]
+        },
+        "root": {
+          "translate": [
+            {
+              "x": 0,
+              "y": 0,
+              "curve": 0.1,
+              "c3": 0.5
+            },
+            {
+              "time": 0.8,
+              "x": 0,
+              "y": 10,
+              "curve": 0.1,
+              "c3": 0.5
+            },
+            {
+              "time": 1.6
+            }
+          ]
+        },
+        "trumpet": {
+          "rotate": [
+            {
+              "angle": 35
+            }
+          ]
+        }
+      }
+    }
+  }
+}

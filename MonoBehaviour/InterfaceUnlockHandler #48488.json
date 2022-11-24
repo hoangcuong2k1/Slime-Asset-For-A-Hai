@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3286692015202087534
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2793829366360182751
+  },
+  "m_Name": "",
+  "interfaceName": "GachaEquipmentSlot",
+  "lockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2470538654774079146
+    }
+  ],
+  "unlockObjects": []
+}

@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7478014577370457366
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7697947479852308387
+  },
+  "m_Name": "",
+  "ignoreStartedOverGui": 0,
+  "requiredButtons": -1,
+  "requiredSelectable": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "onFinger": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -2454347895283052832
+          },
+          "m_TargetAssemblyTypeName": "Lean.Touch.LeanSelectByFinger, LeanTouch",
+          "m_MethodName": "SelectScreenPosition",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "ScreenDepth": {
+    "Conversion": 1,
+    "Camera": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "Object": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "Layers": {
+      "m_Bits": 4294967291
+    },
+    "Distance": 0.0
+  },
+  "onWorld": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onScreen": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

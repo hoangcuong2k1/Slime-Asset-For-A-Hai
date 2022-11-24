@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8745428651734960478
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8316024347620630699
+  },
+  "m_Name": "",
+  "coinMissileSkillPrefabRef": {
+    "m_AssetGUID": "c237b08aecdfb9c4690f992c636eefb6",
+    "m_SubObjectName": "",
+    "m_SubObjectType": ""
+  }
+}

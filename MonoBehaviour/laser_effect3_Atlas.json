@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "laser_effect3_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -695019110186990191
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3527901794096065978
+    }
+  ]
+}

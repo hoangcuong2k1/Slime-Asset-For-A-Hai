@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8437060737294939072
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3470914107750874984
+  },
+  "m_Name": "",
+  "mapLayers": [
+    {
+      "layerTransform": {
+        "m_FileID": 0,
+        "m_PathID": 1337610680416901449
+      },
+      "movementMultiply": 1.0,
+      "intervalX": 0.0
+    },
+    {
+      "layerTransform": {
+        "m_FileID": 0,
+        "m_PathID": -8389095330756509862
+      },
+      "movementMultiply": 0.75,
+      "intervalX": 26.6
+    },
+    {
+      "layerTransform": {
+        "m_FileID": 0,
+        "m_PathID": 7872429956191936966
+      },
+      "movementMultiply": 0.0,
+      "intervalX": 12.7
+    },
+    {
+      "layerTransform": {
+        "m_FileID": 0,
+        "m_PathID": -7431896424527601542
+      },
+      "movementMultiply": -0.4,
+      "intervalX": 11.6
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3735176946407744840
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4921263647872520116
+  },
+  "m_Name": "",
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 1221710592377684278
+  },
+  "popupMessage": {
+    "m_FileID": 0,
+    "m_PathID": -573321636990983383
+  },
+  "changeValueText": {
+    "m_FileID": 0,
+    "m_PathID": -7397138276404906753
+  },
+  "pivot": {
+    "m_FileID": 0,
+    "m_PathID": 7494875956903071808
+  },
+  "graImage": {
+    "m_FileID": 0,
+    "m_PathID": 6868092814263947515
+  },
+  "twinkle": {
+    "m_FileID": 0,
+    "m_PathID": 2241333522913238398
+  },
+  "plusColor": {
+    "r": 0.109803922,
+    "g": 1.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "minusColor": {
+    "r": 1.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "changedArrow": {
+    "m_FileID": 0,
+    "m_PathID": -1047677871997594050
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1961902127118267688
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2793829366360182751
+  },
+  "m_Name": "",
+  "interfaceName": "Quest",
+  "lockObjects": [],
+  "unlockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5594717439714318455
+    }
+  ]
+}

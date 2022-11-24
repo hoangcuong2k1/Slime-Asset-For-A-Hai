@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8071579717049537140
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6522616557495958805
+  },
+  "m_Name": "",
+  "slotIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5140754511846835508
+  },
+  "bg": {
+    "m_FileID": 0,
+    "m_PathID": 1663731341235307933
+  },
+  "innerBg": {
+    "m_FileID": 0,
+    "m_PathID": -5147312801394946640
+  },
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": -8894841861349654474
+  },
+  "levelText": {
+    "m_FileID": 0,
+    "m_PathID": 5353326975380006613
+  },
+  "lockedObj": {
+    "m_FileID": 0,
+    "m_PathID": 3402808284475909120
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5545020731041218848
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 152206740661481537
+  },
+  "m_Name": "",
+  "txtName": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "txtDesc": {
+    "m_FileID": 0,
+    "m_PathID": 7198162214096098527
+  },
+  "progressBar": {
+    "m_FileID": 0,
+    "m_PathID": 7733929017895945644
+  },
+  "completeProgressTextObj": {
+    "m_FileID": 0,
+    "m_PathID": -4601838275007587664
+  },
+  "rewardIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2249252485128084048
+  },
+  "txtRewardAmount": {
+    "m_FileID": 0,
+    "m_PathID": 2104951743951031067
+  },
+  "bg": {
+    "m_FileID": 0,
+    "m_PathID": -1491626909445876381
+  },
+  "rewardSlotBg": {
+    "m_FileID": 0,
+    "m_PathID": -6957879135911840262
+  },
+  "defaultRewardButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -992443579997709309
+  },
+  "completeRewardButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 4217485540266790617
+  },
+  "receivedRewardButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 3518757877412991805
+  },
+  "defaultAdRewardButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 2753634989987535624
+  },
+  "completeAdRewardButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -6314016047521022242
+  },
+  "progressBarImage": {
+    "m_FileID": 0,
+    "m_PathID": -2083465945581392390
+  },
+  "stateIcon": {
+    "m_FileID": 0,
+    "m_PathID": -1393114576783972149
+  },
+  "exclamationSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2632755552250926526
+  },
+  "questionSprite": {
+    "m_FileID": 0,
+    "m_PathID": 3791576936973951510
+  },
+  "completeStateIconObj": {
+    "m_FileID": 0,
+    "m_PathID": 738253414959748134
+  },
+  "completeFlareObj": {
+    "m_FileID": 0,
+    "m_PathID": -1457089668329885275
+  },
+  "dimmedObj": {
+    "m_FileID": 0,
+    "m_PathID": 1329891675205911065
+  },
+  "redDotObj": {
+    "m_FileID": 0,
+    "m_PathID": 5133164642868479979
+  }
+}

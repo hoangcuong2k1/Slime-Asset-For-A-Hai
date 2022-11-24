@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7386127969477703076
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8285571436830375030
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -2692838234426684896
+  },
+  "descText": {
+    "m_FileID": 0,
+    "m_PathID": 8443545432883548076
+  },
+  "layerGold": {
+    "m_FileID": 0,
+    "m_PathID": 5162670489621098297
+  },
+  "decoGold": {
+    "m_FileID": 0,
+    "m_PathID": 667897684464360621
+  },
+  "layerGem": {
+    "m_FileID": 0,
+    "m_PathID": -8455467695205315647
+  },
+  "decoGem": {
+    "m_FileID": 0,
+    "m_PathID": -3033795719033467764
+  },
+  "layerBuff": {
+    "m_FileID": 0,
+    "m_PathID": -5757592226324208518
+  },
+  "decoBuff": {
+    "m_FileID": 0,
+    "m_PathID": -489489308370580500
+  },
+  "tmGold": {
+    "m_FileID": 0,
+    "m_PathID": 8303580999772590268
+  },
+  "txtGold": {
+    "m_FileID": 0,
+    "m_PathID": 2491587637752243073
+  },
+  "tmGem": {
+    "m_FileID": 0,
+    "m_PathID": 35728508423132817
+  },
+  "txtGem": {
+    "m_FileID": 0,
+    "m_PathID": -4056349117359064129
+  },
+  "txtBuffEffect": {
+    "m_FileID": 0,
+    "m_PathID": 9021435110145443348
+  },
+  "txtBuffDuration": {
+    "m_FileID": 0,
+    "m_PathID": -1704381441945060181
+  },
+  "closeButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -6565476340159330675
+  }
+}

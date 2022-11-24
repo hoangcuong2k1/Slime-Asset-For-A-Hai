@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1478988833490394081
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7837370324791630998
+  },
+  "m_Name": "",
+  "view": {
+    "m_FileID": 0,
+    "m_PathID": -9197178321285920698
+  },
+  "timerIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 5598140345537006029
+  },
+  "earnSfx": {
+    "m_FileID": 6,
+    "m_PathID": -2448843806791463484
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8740937699925138077
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4813347777969809714
+  },
+  "m_Name": "",
+  "projectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2014906498784182725
+  }
+}

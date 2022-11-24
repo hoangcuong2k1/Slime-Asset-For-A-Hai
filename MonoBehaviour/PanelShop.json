@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5075483911708543018
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4289699474378624031
+  },
+  "m_Name": "",
+  "body": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overrideBottomLayoutHeight": 1,
+  "targetHeightRatio": 1.0,
+  "isEnableMenuLayout": 1,
+  "isEnableSkillUseButtonLayout": 0,
+  "isEnableDefaultPanel": 0,
+  "isEnablePanelDimmed": 1,
+  "isReduceBattleSfx": 1,
+  "isFullScreen": 1,
+  "shopPanelArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3432127909164344905
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 73319556064441761
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6532028501530106612
+    }
+  ],
+  "dailyFreeGemRedDotObject": {
+    "m_FileID": 0,
+    "m_PathID": 5985410214902059787
+  },
+  "firstIAPRedDotObject": {
+    "m_FileID": 0,
+    "m_PathID": -1765409548471213490
+  },
+  "menuParent": {
+    "m_FileID": 0,
+    "m_PathID": 6640764714672247434
+  },
+  "summonToggle": {
+    "m_FileID": 0,
+    "m_PathID": -3349331530716296914
+  },
+  "packageToggle": {
+    "m_FileID": 0,
+    "m_PathID": 8272242594951069603
+  },
+  "dailyAndWeeklyToggle": {
+    "m_FileID": 0,
+    "m_PathID": 1028833813461444557
+  },
+  "currencyToggle": {
+    "m_FileID": 0,
+    "m_PathID": -2255867845273458823
+  },
+  "menuFrontBoard": {
+    "m_FileID": 0,
+    "m_PathID": -3881282803610282497
+  },
+  "selectCategoryGraphic": {
+    "m_FileID": 0,
+    "m_PathID": 6907162294919353814
+  },
+  "firstPurchaseButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -5198502282647905643
+  }
+}

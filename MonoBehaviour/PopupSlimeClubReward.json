@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6795169692330168196
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6828993783196354850
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 6609840245842726632
+  },
+  "txtTitle": {
+    "m_FileID": 0,
+    "m_PathID": -6020320747509931014
+  },
+  "scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": -2931176911838142271
+  },
+  "prefabSlot": {
+    "m_FileID": 0,
+    "m_PathID": -1554539155429995638
+  },
+  "rewardSfx": {
+    "m_FileID": 0,
+    "m_PathID": -5599797519441250985
+  },
+  "slimeClubRemainText": {
+    "m_FileID": 0,
+    "m_PathID": 7941683398645381881
+  },
+  "goBargainDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 5082976750044447149
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3492210771442810094
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 895209063096279186
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -714089963354897566
+  },
+  "txtInfo": {
+    "m_FileID": 0,
+    "m_PathID": -1418093055124822570
+  },
+  "txtGoldReward": {
+    "m_FileID": 0,
+    "m_PathID": -607256082715638552
+  },
+  "txtGpm": {
+    "m_FileID": 0,
+    "m_PathID": 1450628278966432569
+  },
+  "rtLayout": {
+    "m_FileID": 0,
+    "m_PathID": -8883886849922564416
+  },
+  "prefabSlot": {
+    "m_FileID": 0,
+    "m_PathID": -1554539155429995638
+  },
+  "imgRewardFrag": {
+    "m_FileID": 0,
+    "m_PathID": -6426705152054852053
+  },
+  "bgBonus": {
+    "m_FileID": 0,
+    "m_PathID": 7415913880768355304
+  },
+  "txtBonus": {
+    "m_FileID": 0,
+    "m_PathID": 449488862609242980
+  },
+  "specialButtonSprite": {
+    "m_FileID": 0,
+    "m_PathID": 4649204004351282735
+  },
+  "disableButtonSprite": {
+    "m_FileID": 0,
+    "m_PathID": 5460914654403506063
+  }
+}

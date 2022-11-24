@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -242629420777663024
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3422708735248684098
+  },
+  "m_Name": "",
+  "_projectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -6168217676921701253
+  },
+  "speed": 8.0,
+  "curveOffsetY": 0.0,
+  "onHitEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

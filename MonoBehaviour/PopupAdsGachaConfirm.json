@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5866684560821421419
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4042979383791467645
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -8356479158645336033
+  },
+  "descText": {
+    "m_FileID": 0,
+    "m_PathID": 3766676895848137741
+  },
+  "layerEquipment": {
+    "m_FileID": 0,
+    "m_PathID": 4340345363210699991
+  },
+  "layerSkill": {
+    "m_FileID": 0,
+    "m_PathID": -8687049960868453069
+  },
+  "layerCompanion": {
+    "m_FileID": 0,
+    "m_PathID": 2027187532912396180
+  },
+  "txtCurrentCount": {
+    "m_FileID": 0,
+    "m_PathID": 7188910482698883303
+  },
+  "txtNextCountDesc": {
+    "m_FileID": 0,
+    "m_PathID": -5044849012570327628
+  }
+}

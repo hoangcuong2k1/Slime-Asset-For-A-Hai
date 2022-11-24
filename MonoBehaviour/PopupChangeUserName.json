@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1430956100904182204
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2737679946301446146
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -3212408856184546075
+  },
+  "dataBindContext": {
+    "m_FileID": 0,
+    "m_PathID": 1214583931186891855
+  },
+  "inputField": {
+    "m_FileID": 0,
+    "m_PathID": 6685272356430193697
+  }
+}

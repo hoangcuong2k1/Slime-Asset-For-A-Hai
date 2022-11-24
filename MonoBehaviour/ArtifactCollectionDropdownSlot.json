@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6016664340542536019
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5049689868339868105
+  },
+  "m_Name": "",
+  "artifactIcon": {
+    "m_FileID": 0,
+    "m_PathID": 5355817175670933329
+  },
+  "artifactName": {
+    "m_FileID": 0,
+    "m_PathID": 7981333421018570741
+  },
+  "artifactDesc": {
+    "m_FileID": 0,
+    "m_PathID": 5164240729713545187
+  },
+  "defaultBgObj": {
+    "m_FileID": 0,
+    "m_PathID": -7850434603364158681
+  },
+  "equippedBgObj": {
+    "m_FileID": 0,
+    "m_PathID": -4821609792707740252
+  },
+  "equipIconObj": {
+    "m_FileID": 0,
+    "m_PathID": 2328484849629165431
+  },
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 6647220688360172792
+  }
+}

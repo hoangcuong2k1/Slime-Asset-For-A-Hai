@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4373858139202869265
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2088486819562082741
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 8505853214108744191
+  },
+  "titleImage": {
+    "m_FileID": 0,
+    "m_PathID": -6791279308359933207
+  },
+  "rewardSlotPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -1554539155429995638
+  },
+  "slotParent": {
+    "m_FileID": 0,
+    "m_PathID": 7784701215776655205
+  }
+}

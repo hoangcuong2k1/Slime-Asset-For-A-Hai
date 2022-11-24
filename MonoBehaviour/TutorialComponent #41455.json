@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5767855879012560447
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "Lobby Menu Button",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 513991360560186797
+    },
+    "worldPosition": {
+      "x": 1.55941355,
+      "y": 3.28279877,
+      "z": 90.0
+    },
+    "rectSize": {
+      "x": 123.7,
+      "y": 58.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

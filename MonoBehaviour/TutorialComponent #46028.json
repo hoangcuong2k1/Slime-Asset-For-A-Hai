@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7594973097481454502
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "SlimeInfo.RingButton",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 4037764143214529690
+    },
+    "worldPosition": {
+      "x": 562.0,
+      "y": 765.52,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 110.0,
+      "y": 110.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

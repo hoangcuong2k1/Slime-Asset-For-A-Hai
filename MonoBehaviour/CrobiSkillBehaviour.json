@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5144640632551433914
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8186830327928194667
+  },
+  "m_Name": "",
+  "vfxPortal": {
+    "m_FileID": 15,
+    "m_PathID": 1405669260421974111
+  },
+  "bomberProjectile": {
+    "m_FileID": 15,
+    "m_PathID": 8827608278361575715
+  },
+  "bomberSpeed": 10.0,
+  "sfxPortal": {
+    "m_FileID": 19,
+    "m_PathID": 8042457790654579253
+  }
+}

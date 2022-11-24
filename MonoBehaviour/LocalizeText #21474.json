@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6748664129592490721
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8962903080549542158
+  },
+  "m_Name": "",
+  "localizeKey": "FIRST_PURCHASE_BONUS_SLIME_TITLE",
+  "fontMaterial": {
+    "m_FileID": 2,
+    "m_PathID": 379438189239238212
+  },
+  "overrideFonts": []
+}

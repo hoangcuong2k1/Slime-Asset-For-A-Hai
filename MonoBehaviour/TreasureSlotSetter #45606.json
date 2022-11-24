@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8990335727121288910
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8339620018987052894
+  },
+  "m_Name": "",
+  "slots": [
+    {
+      "rarity": 1,
+      "slot": {
+        "m_FileID": 0,
+        "m_PathID": 1815925727288283808
+      }
+    },
+    {
+      "rarity": 2,
+      "slot": {
+        "m_FileID": 0,
+        "m_PathID": -6539601167838378061
+      }
+    },
+    {
+      "rarity": 3,
+      "slot": {
+        "m_FileID": 0,
+        "m_PathID": -6313402164003092715
+      }
+    },
+    {
+      "rarity": 4,
+      "slot": {
+        "m_FileID": 0,
+        "m_PathID": -5532333549167445562
+      }
+    },
+    {
+      "rarity": 5,
+      "slot": {
+        "m_FileID": 0,
+        "m_PathID": 1512416940918897916
+      }
+    },
+    {
+      "rarity": 6,
+      "slot": {
+        "m_FileID": 0,
+        "m_PathID": 522795312190306474
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4548883082589792676
+  },
+  "m_Name": "Signal Emitter",
+  "m_Time": 0.91666666666666663,
+  "m_Retroactive": 0,
+  "m_EmitOnce": 0,
+  "m_Asset": {
+    "m_FileID": 0,
+    "m_PathID": -3238184415187476137
+  }
+}

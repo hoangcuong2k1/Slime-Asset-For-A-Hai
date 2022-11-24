@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3120706414658925110
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8940529911906571770
+  },
+  "m_Name": "",
+  "ignoreList": [],
+  "bindables": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2807420412927961693
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7984790615464346388
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3489746062104441757
+    }
+  ]
+}

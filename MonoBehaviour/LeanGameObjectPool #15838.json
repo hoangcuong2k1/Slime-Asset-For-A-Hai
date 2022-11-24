@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8304768409847755751
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2583973574143635226
+  },
+  "m_Name": "",
+  "prefab": {
+    "m_FileID": 0,
+    "m_PathID": 3223155059427931029
+  },
+  "notification": 0,
+  "strategy": 0,
+  "preload": 9,
+  "capacity": 0,
+  "recycle": 0,
+  "persist": 0,
+  "stamp": 0,
+  "warnings": 1,
+  "spawnedClonesList": [],
+  "despawnedClones": [],
+  "delays": [],
+  "deactivatedChild": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

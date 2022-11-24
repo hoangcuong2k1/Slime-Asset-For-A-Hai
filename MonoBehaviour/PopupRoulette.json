@@ -1,0 +1,167 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3381774342525997804
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5378028890258268351
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 2651001518464259567
+  },
+  "rouletteRt": {
+    "m_FileID": 0,
+    "m_PathID": -7930739944006387218
+  },
+  "rouletteSpinCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.5222373,
+        "outSlope": 2.5222373,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0532994866
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "rewardSlots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4242434937658283047
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4501507415074603686
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6933332667058603673
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -661916315586813480
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3996430578176059194
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1923584306195782941
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8275374687829117707
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3445726454277125090
+    }
+  ],
+  "countText": {
+    "m_FileID": 0,
+    "m_PathID": 2189369226701715271
+  },
+  "freeButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -7565088346941239021
+  },
+  "adButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -2694475633780020909
+  },
+  "timerButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 8194379789914332494
+  },
+  "rouletteSfx": {
+    "m_FileID": 0,
+    "m_PathID": 879407920205070215
+  },
+  "decoCompanions": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2673580883096332553
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2125187609888583918
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3437511823640448763
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5953754627936996936
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5024756693500989052
+    }
+  ],
+  "decoLights": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7636840766211174085
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2437968817915356585
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7127523837320384472
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7398482258914106924
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3546573318970885532
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1624431021026801407
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3067817897822135024
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5493205799531706618
+    }
+  ],
+  "lightOnSprite": {
+    "m_FileID": 0,
+    "m_PathID": -4722854183297398716
+  },
+  "lightOffSprite": {
+    "m_FileID": 0,
+    "m_PathID": -585620214220317417
+  },
+  "needlePivot": {
+    "m_FileID": 0,
+    "m_PathID": -8637649024871892641
+  }
+}

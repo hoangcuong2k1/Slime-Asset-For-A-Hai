@@ -1,0 +1,188 @@
+
+pumpkinskime_skill.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_1
+  rotate: false
+  xy: 435, 2
+  size: 29, 19
+  orig: 31, 21
+  offset: 1, 1
+  index: -1
+2_2
+  rotate: true
+  xy: 532, 184
+  size: 22, 16
+  orig: 24, 18
+  offset: 1, 1
+  index: -1
+2_4
+  rotate: true
+  xy: 532, 184
+  size: 22, 16
+  orig: 24, 18
+  offset: 1, 1
+  index: -1
+2_3
+  rotate: false
+  xy: 514, 220
+  size: 24, 32
+  orig: 26, 33
+  offset: 1, 1
+  index: -1
+2_5
+  rotate: false
+  xy: 539, 40
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+3_2
+  rotate: false
+  xy: 539, 40
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+2_6
+  rotate: true
+  xy: 442, 23
+  size: 63, 56
+  orig: 65, 58
+  offset: 1, 1
+  index: -1
+3_3
+  rotate: true
+  xy: 442, 23
+  size: 63, 56
+  orig: 65, 58
+  offset: 1, 1
+  index: -1
+3_1
+  rotate: false
+  xy: 466, 2
+  size: 29, 19
+  orig: 31, 21
+  offset: 1, 1
+  index: -1
+3_4
+  rotate: false
+  xy: 459, 222
+  size: 53, 35
+  orig: 55, 37
+  offset: 1, 1
+  index: -1
+3_5
+  rotate: false
+  xy: 406, 14
+  size: 27, 32
+  orig: 29, 34
+  offset: 1, 1
+  index: -1
+4_1
+  rotate: false
+  xy: 263, 161
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+4_2
+  rotate: false
+  xy: 263, 161
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+4_3
+  rotate: true
+  xy: 442, 88
+  size: 71, 59
+  orig: 73, 61
+  offset: 1, 1
+  index: -1
+4_4
+  rotate: false
+  xy: 2, 16
+  size: 259, 253
+  orig: 261, 255
+  offset: 1, 1
+  index: -1
+4_5
+  rotate: false
+  xy: 263, 4
+  size: 141, 38
+  orig: 143, 40
+  offset: 1, 1
+  index: -1
+4_6
+  rotate: false
+  xy: 507, 184
+  size: 23, 34
+  orig: 25, 35
+  offset: 1, 1
+  index: -1
+4_7
+  rotate: false
+  xy: 459, 161
+  size: 46, 59
+  orig: 48, 61
+  offset: 1, 1
+  index: -1
+4_8
+  rotate: true
+  xy: 373, 161
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+5_1
+  rotate: true
+  xy: 263, 44
+  size: 115, 100
+  orig: 117, 102
+  offset: 1, 1
+  index: -1
+5_2
+  rotate: false
+  xy: 500, 40
+  size: 37, 46
+  orig: 39, 48
+  offset: 1, 1
+  index: -1
+5_3
+  rotate: false
+  xy: 503, 88
+  size: 37, 46
+  orig: 39, 48
+  offset: 1, 1
+  index: -1
+5_4
+  rotate: true
+  xy: 365, 48
+  size: 111, 75
+  orig: 113, 77
+  offset: 1, 1
+  index: -1
+5_5
+  rotate: false
+  xy: 507, 136
+  size: 37, 46
+  orig: 39, 48
+  offset: 1, 1
+  index: -1
+5_6
+  rotate: false
+  xy: 507, 136
+  size: 37, 46
+  orig: 39, 48
+  offset: 1, 1
+  index: -1
+5_7
+  rotate: false
+  xy: 500, 2
+  size: 39, 36
+  orig: 41, 38
+  offset: 1, 1
+  index: -1

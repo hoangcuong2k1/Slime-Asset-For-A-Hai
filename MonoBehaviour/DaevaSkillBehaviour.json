@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3191855528713407167
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7274876248741337052
+  },
+  "m_Name": "",
+  "paddingTime": 0.2,
+  "autofireCount": 10,
+  "autofireInterval": 0.1,
+  "autofireCoolTime": 2.5,
+  "timeToDistanceRatio": 11.0,
+  "_projectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2546013226937173037
+  },
+  "_vfxHitPrefab": {
+    "m_FileID": 15,
+    "m_PathID": 216740879095649614
+  },
+  "_sfxHit": {
+    "m_FileID": 0,
+    "m_PathID": 3913424760281698391
+  }
+}

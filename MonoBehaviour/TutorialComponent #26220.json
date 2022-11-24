@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5955537760279671508
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "LowGradeTreasureSlot",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 7281486975087329511
+    },
+    "worldPosition": {
+      "x": -1.734162,
+      "y": -1.49656141,
+      "z": 90.0
+    },
+    "rectSize": {
+      "x": 109.0,
+      "y": 121.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3400470313111741386
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1183207656325571789
+  },
+  "m_Name": "",
+  "villageSector": {
+    "m_FileID": 0,
+    "m_PathID": 7869525665427599279
+  },
+  "villagerPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -2139452647688700223
+  },
+  "villagerCount": 9
+}

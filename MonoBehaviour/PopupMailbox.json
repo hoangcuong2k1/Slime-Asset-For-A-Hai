@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5637191992008147105
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8503917371530829097
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "slotParent": {
+    "m_FileID": 0,
+    "m_PathID": -7883028830204137803
+  },
+  "slotPool": {
+    "m_FileID": 0,
+    "m_PathID": -3403387166401953997
+  },
+  "emptyObj": {
+    "m_FileID": 0,
+    "m_PathID": 2206096772516120687
+  }
+}

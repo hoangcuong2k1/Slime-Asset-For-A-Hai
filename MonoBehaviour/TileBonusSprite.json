@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1195167828066096293
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1408469586214099667
+  },
+  "m_Name": "",
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -5771742728645120639
+  },
+  "shinyObject": {
+    "m_FileID": 0,
+    "m_PathID": 4675161837001607330
+  }
+}

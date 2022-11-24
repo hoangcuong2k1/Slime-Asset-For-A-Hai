@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3659673289582175211
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8962903080549542158
+  },
+  "m_Name": "",
+  "localizeKey": "MINE_INFO_DESC_DEPTH",
+  "fontMaterial": {
+    "m_FileID": 2,
+    "m_PathID": 379438189239238212
+  },
+  "overrideFonts": []
+}

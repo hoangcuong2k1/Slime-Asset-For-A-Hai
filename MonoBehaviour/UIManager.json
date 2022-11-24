@@ -1,0 +1,153 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2879373053166040598
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6761064138152096844
+  },
+  "m_Name": "",
+  "uiCanvas": {
+    "m_FileID": 0,
+    "m_PathID": 7198073232122147648
+  },
+  "sleepModeUIObj": {
+    "m_FileID": 0,
+    "m_PathID": 2629553041139973644
+  },
+  "safeArea": {
+    "m_FileID": 0,
+    "m_PathID": -3163770445941578810
+  },
+  "battleAreaRtArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -134721837682562773
+    }
+  ],
+  "txtLevel": {
+    "m_FileID": 0,
+    "m_PathID": -2001584739550151770
+  },
+  "letterboxObj": {
+    "m_FileID": 0,
+    "m_PathID": -7979059611738034326
+  },
+  "mainCameraTarget": {
+    "m_FileID": 0,
+    "m_PathID": -4343691150526542992
+  },
+  "autoSkillToggle": {
+    "m_FileID": 0,
+    "m_PathID": 9121303644035352925
+  },
+  "doubleSpeedToggle": {
+    "m_FileID": 0,
+    "m_PathID": 1725096915172854782
+  },
+  "victory": {
+    "m_FileID": 0,
+    "m_PathID": -5590111334726483724
+  },
+  "bossAppear": {
+    "m_FileID": 0,
+    "m_PathID": -4840089796436021179
+  },
+  "currentStage": {
+    "m_FileID": 0,
+    "m_PathID": -2110660201745217484
+  },
+  "skillUseButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3879089384532830990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3235259527921199781
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8507376306447675973
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4902995263277454473
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6243099774084858490
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -98730658209294280
+    }
+  ],
+  "bottomLayoutRt": {
+    "m_FileID": 0,
+    "m_PathID": -2724392303233918975
+  },
+  "bottomMenuObj": {
+    "m_FileID": 0,
+    "m_PathID": -8520978368382316089
+  },
+  "skillUseButtonLayoutObject": {
+    "m_FileID": 0,
+    "m_PathID": -2232796170901951080
+  },
+  "defaultBottomLayoutHeight": 0.5,
+  "panelDimmedObject": {
+    "m_FileID": 0,
+    "m_PathID": -7593494024161044774
+  },
+  "stageModeUI": {
+    "m_FileID": 4,
+    "m_PathID": 399188088849895304
+  },
+  "bossRushModeUI": {
+    "m_FileID": 27,
+    "m_PathID": 7408687498395881336
+  },
+  "goldDungeonModeUI": {
+    "m_FileID": 1,
+    "m_PathID": -6036783610188059737
+  },
+  "dwarfGrandfatherModeUI": {
+    "m_FileID": 25,
+    "m_PathID": -7661879282212762916
+  },
+  "villageModeUI": {
+    "m_FileID": 26,
+    "m_PathID": 6260951579237523862
+  },
+  "angerNewbieModeUI": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "attackPowerBuffIcon": {
+    "m_FileID": 0,
+    "m_PathID": 4218109972793176070
+  },
+  "goldBonusBuffIcon": {
+    "m_FileID": 0,
+    "m_PathID": -379511556710587266
+  },
+  "skillCooldownBuffIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4037304850293733419
+  },
+  "adsBuffGroup": {
+    "m_FileID": 0,
+    "m_PathID": -5729292433122668505
+  },
+  "slimeClubIcon": {
+    "m_FileID": 0,
+    "m_PathID": 6319914686812343218
+  },
+  "menuButtonRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 513991360560186797
+  }
+}

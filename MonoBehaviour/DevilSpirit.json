@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3779302996654151589
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2725722392088556765
+  },
+  "m_Name": "",
+  "turretPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 511890254941361802
+  },
+  "projectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 6887121735009794623
+  },
+  "spoolUpTime": 0.5,
+  "speed": 40.0,
+  "curveOffsetY": 0.5,
+  "minimumIdleTime": 0.3,
+  "randomIdleTime": 0.3,
+  "maximumIdleTime": 10.0
+}

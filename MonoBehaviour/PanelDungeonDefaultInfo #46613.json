@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1864579366044083489
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5339761036032288520
+  },
+  "m_Name": "",
+  "dungeonDesc": {
+    "m_FileID": 0,
+    "m_PathID": 3541557455112260227
+  },
+  "imgGiveUpButton": {
+    "m_FileID": 0,
+    "m_PathID": -751777371012635658
+  }
+}

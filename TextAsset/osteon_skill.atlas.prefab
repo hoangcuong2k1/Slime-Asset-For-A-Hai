@@ -1,0 +1,139 @@
+
+osteon_skill.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: true
+  xy: 195, 1731
+  size: 220, 65
+  orig: 220, 65
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: true
+  xy: 208, 1286
+  size: 124, 37
+  orig: 124, 37
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: true
+  xy: 249, 622
+  size: 278, 15
+  orig: 278, 15
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 208, 1412
+  size: 76, 118
+  orig: 76, 118
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: true
+  xy: 1, 1
+  size: 125, 196
+  orig: 125, 196
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: true
+  xy: 208, 1188
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+2_4
+  rotate: false
+  xy: 151, 294
+  size: 125, 117
+  orig: 125, 117
+  offset: 0, 0
+  index: -1
+4_1
+  rotate: true
+  xy: 195, 1532
+  size: 197, 66
+  orig: 197, 66
+  offset: 0, 0
+  index: -1
+4_2
+  rotate: true
+  xy: 130, 611
+  size: 289, 117
+  orig: 289, 117
+  offset: 0, 0
+  index: -1
+5_1
+  rotate: false
+  xy: 1, 128
+  size: 148, 321
+  orig: 148, 321
+  offset: 0, 0
+  index: -1
+5_2
+  rotate: false
+  xy: 1, 1188
+  size: 205, 337
+  orig: 205, 337
+  offset: 0, 0
+  index: -1
+6_1
+  rotate: false
+  xy: 1, 902
+  size: 220, 284
+  orig: 220, 310
+  offset: 0, 0
+  index: -1
+6_2
+  rotate: false
+  xy: 1, 1527
+  size: 192, 424
+  orig: 192, 457
+  offset: 0, 0
+  index: -1
+6_3
+  rotate: false
+  xy: 1, 451
+  size: 127, 449
+  orig: 127, 456
+  offset: 0, 0
+  index: -1
+6_4
+  rotate: true
+  xy: 263, 1590
+  size: 361, 10
+  orig: 361, 10
+  offset: 0, 0
+  index: -1
+7_1
+  rotate: false
+  xy: 151, 175
+  size: 125, 117
+  orig: 125, 117
+  offset: 0, 0
+  index: -1
+7_2
+  rotate: false
+  xy: 151, 413
+  size: 125, 196
+  orig: 125, 196
+  offset: 0, 0
+  index: -1
+7_3
+  rotate: true
+  xy: 223, 902
+  size: 196, 52
+  orig: 196, 52
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 199, 1
+  size: 56, 172
+  orig: 56, 172
+  offset: 0, 0
+  index: -1

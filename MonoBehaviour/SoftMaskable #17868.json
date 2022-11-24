@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8138971915847452441
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -381009709465330947
+  },
+  "m_Name": "",
+  "m_Inverse": 0,
+  "m_MaskInteraction": 85,
+  "m_UseStencil": 1,
+  "m_RaycastFilter": 0
+}

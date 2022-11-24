@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5400877846246680971
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7778629995165607586
+  },
+  "m_Name": "",
+  "_cameraTarget": {
+    "m_FileID": 0,
+    "m_PathID": -3240660571751344490
+  },
+  "_mouseScrollFactor": -0.5,
+  "_moveDamping": 35.0,
+  "_sizeDamping": 45.0,
+  "interactable": 1,
+  "sizeMin": 3.5,
+  "sizeMax": 8.0,
+  "positionMin": {
+    "x": -7.0,
+    "y": -9.0
+  },
+  "positionMax": {
+    "x": 7.0,
+    "y": 11.5
+  }
+}

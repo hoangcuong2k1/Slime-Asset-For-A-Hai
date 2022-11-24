@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "201_goblin_legion_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6208302657891611228
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7563840034007508930
+    }
+  ]
+}

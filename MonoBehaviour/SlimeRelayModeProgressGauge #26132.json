@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7705419859073804599
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6045659360533489990
+  },
+  "m_Name": "",
+  "itemParent": {
+    "m_FileID": 0,
+    "m_PathID": 2893379513338093883
+  },
+  "itemPoolConfigs": [
+    {
+      "key": "Small",
+      "pool": {
+        "m_FileID": 0,
+        "m_PathID": 1409061617726926627
+      }
+    },
+    {
+      "key": "Middle",
+      "pool": {
+        "m_FileID": 0,
+        "m_PathID": -4606157001464726411
+      }
+    },
+    {
+      "key": "Head",
+      "pool": {
+        "m_FileID": 0,
+        "m_PathID": 3535692763374285351
+      }
+    },
+    {
+      "key": "Boss",
+      "pool": {
+        "m_FileID": 0,
+        "m_PathID": -1722677604273764354
+      }
+    }
+  ],
+  "floorTextDefaultColor": {
+    "r": 0.470588267,
+    "g": 0.470588267,
+    "b": 0.596078455,
+    "a": 1.0
+  },
+  "floorTextPassedColor": {
+    "r": 0.992156863,
+    "g": 1.0,
+    "b": 0.447058827,
+    "a": 1.0
+  },
+  "floorTextCurrentColor": {
+    "r": 0.192156881,
+    "g": 0.7058824,
+    "b": 1.0,
+    "a": 1.0
+  }
+}

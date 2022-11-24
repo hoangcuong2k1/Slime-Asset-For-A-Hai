@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6561197795654774069
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "SlimeInfo.ArmorButton",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -1360505950275442349
+    },
+    "worldPosition": {
+      "x": 562.0,
+      "y": 98.51001,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 110.0,
+      "y": 110.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

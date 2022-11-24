@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5535441478024715982
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1277927121671302411
+  },
+  "m_Name": "",
+  "root": {
+    "m_FileID": 0,
+    "m_PathID": -2627437698687459353
+  },
+  "despawnDelay": 0.0,
+  "disableObjectsWhenOnHit": [],
+  "onFireEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onHitEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 3286512143252279161
+          },
+          "m_TargetAssemblyTypeName": "UnityEngine.TrailRenderer, UnityEngine",
+          "m_MethodName": "Clear",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "trailTransform": {
+    "m_FileID": 0,
+    "m_PathID": 571542242576897367
+  },
+  "overrideJump": 0,
+  "overrideJumpValue": 0.0,
+  "fireVfxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "explosionVfxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 8301878725261268499
+  },
+  "rotateType": 1,
+  "rotateSpeed": 500.0,
+  "fireSfx": {
+    "clip": {
+      "m_FileID": 3,
+      "m_PathID": 8340867033459350398
+    },
+    "volume": 1.0
+  },
+  "hitSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": 8198499417212473168
+    },
+    "volume": 0.8
+  }
+}

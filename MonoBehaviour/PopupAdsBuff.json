@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7339039780860538797
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5578767920836309575
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 3200384006723863121
+  },
+  "attackPowerBuffSlot": {
+    "m_FileID": 0,
+    "m_PathID": 5225141708222277796
+  },
+  "goldBonusBuffSlot": {
+    "m_FileID": 0,
+    "m_PathID": 5039543256061598728
+  },
+  "skillCooldownBuffSlot": {
+    "m_FileID": 0,
+    "m_PathID": -6247788263067311799
+  },
+  "infiniteBuffDescObj": {
+    "m_FileID": 0,
+    "m_PathID": -2382999944754972227
+  },
+  "infiniteBuffDesc": {
+    "m_FileID": 0,
+    "m_PathID": 457280340488202913
+  },
+  "levelUpFx": {
+    "m_FileID": 0,
+    "m_PathID": -7941508424747310163
+  },
+  "levelUpFxName": {
+    "m_FileID": 0,
+    "m_PathID": 3868029912800346031
+  },
+  "levelUpFxLevel": {
+    "m_FileID": 0,
+    "m_PathID": 327431147052345236
+  },
+  "infiniteBuffPackageMarketingObj": {
+    "m_FileID": 0,
+    "m_PathID": 6132865424195824651
+  }
+}

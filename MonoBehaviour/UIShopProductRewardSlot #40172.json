@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8352387271919234073
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2496028358499895848
+  },
+  "m_Name": "",
+  "flareImage": {
+    "m_FileID": 0,
+    "m_PathID": -5432842509894324398
+  },
+  "iconImage": {
+    "m_FileID": 0,
+    "m_PathID": -2566768771336886661
+  },
+  "bgImage": {
+    "m_FileID": 0,
+    "m_PathID": -131825609930703295
+  },
+  "typeIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -4325126027145958043
+  }
+}

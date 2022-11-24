@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 13
+  },
+  "m_Name": "Bomb",
+  "Strength": {
+    "x": 0.4,
+    "y": 0.4,
+    "z": 0.0
+  },
+  "Duration": 0.4,
+  "Vibrato": 9,
+  "Randomness": 0.1,
+  "Smoothness": 0.02,
+  "UseRandomInitialAngle": 1,
+  "InitialAngle": 0.0,
+  "Rotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "IgnoreTimeScale": 1
+}

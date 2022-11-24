@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4298961884458520727
+  },
+  "m_Name": "LeagueSetting",
+  "enterLeagueButtonDefaultIconSprite": {
+    "m_FileID": 0,
+    "m_PathID": 5785652559482404056
+  },
+  "defaultShopTopDecoSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2067727101832664043
+  },
+  "rank1IconSprite": {
+    "m_FileID": 0,
+    "m_PathID": -6530688187671205528
+  },
+  "rank2IconSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2698745449599450666
+  },
+  "rank3IconSprite": {
+    "m_FileID": 0,
+    "m_PathID": -304657360133914555
+  },
+  "rankOtherIconSprite": {
+    "m_FileID": 0,
+    "m_PathID": -6993447745095162405
+  },
+  "tier1BgSprite": {
+    "m_FileID": 0,
+    "m_PathID": -6262953954542948627
+  },
+  "tier2BgSprite": {
+    "m_FileID": 0,
+    "m_PathID": 1663777103736414801
+  },
+  "tier3BgSprite": {
+    "m_FileID": 0,
+    "m_PathID": -6548572383736981631
+  },
+  "tier4BgSprite": {
+    "m_FileID": 0,
+    "m_PathID": 7433558953253149595
+  },
+  "tier5BgSprite": {
+    "m_FileID": 0,
+    "m_PathID": -5439214476365634454
+  },
+  "rank1BoxSprite": {
+    "m_FileID": 0,
+    "m_PathID": 5458854729062711282
+  },
+  "rank2BoxSprite": {
+    "m_FileID": 0,
+    "m_PathID": -1721332668355319388
+  },
+  "rankOtherBoxSprite": {
+    "m_FileID": 0,
+    "m_PathID": -7576348826868801995
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4802374683016285857
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8369938780833333448
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": -2918939913085166477
+  },
+  "group": {
+    "m_FileID": 0,
+    "m_PathID": 8588011808491227116
+  },
+  "goDefaultState": {
+    "m_FileID": 0,
+    "m_PathID": 1934982793303463766
+  },
+  "goRewardState": {
+    "m_FileID": 0,
+    "m_PathID": 4301102933003660484
+  },
+  "goButton": {
+    "m_FileID": 0,
+    "m_PathID": -3006847958395376490
+  },
+  "goComplete": {
+    "m_FileID": 0,
+    "m_PathID": -4664151419334425633
+  },
+  "rt": {
+    "m_FileID": 0,
+    "m_PathID": -9009731982967122817
+  },
+  "txtTitle": {
+    "m_FileID": 0,
+    "m_PathID": -9184042352543798605
+  },
+  "txtReward": {
+    "m_FileID": 0,
+    "m_PathID": -4382571629577831148
+  },
+  "txtRewardAmount": {
+    "m_FileID": 0,
+    "m_PathID": 2490910508291605982
+  },
+  "imgReward": {
+    "m_FileID": 0,
+    "m_PathID": 4822464573868428722
+  },
+  "imgRewardBg": {
+    "m_FileID": 0,
+    "m_PathID": -390495903617030395
+  },
+  "sfx0": {
+    "m_FileID": 0,
+    "m_PathID": 3979650950741627212
+  },
+  "sfx1": {
+    "m_FileID": 0,
+    "m_PathID": -5599797519441250985
+  }
+}

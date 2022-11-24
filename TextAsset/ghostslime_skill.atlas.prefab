@@ -1,0 +1,181 @@
+
+ghostslime_skill.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_1
+  rotate: true
+  xy: 411, 197
+  size: 79, 51
+  orig: 81, 53
+  offset: 1, 1
+  index: -1
+5_10
+  rotate: true
+  xy: 297, 619
+  size: 59, 111
+  orig: 61, 113
+  offset: 1, 1
+  index: -1
+5_2
+  rotate: false
+  xy: 297, 689
+  size: 52, 28
+  orig: 54, 30
+  offset: 1, 1
+  index: -1
+5_3
+  rotate: false
+  xy: 351, 697
+  size: 33, 20
+  orig: 35, 22
+  offset: 1, 1
+  index: -1
+5_4
+  rotate: false
+  xy: 269, 643
+  size: 24, 20
+  orig: 26, 22
+  offset: 1, 1
+  index: -1
+5_5
+  rotate: false
+  xy: 418, 24
+  size: 40, 25
+  orig: 42, 27
+  offset: 1, 1
+  index: -1
+5_6
+  rotate: true
+  xy: 447, 398
+  size: 55, 7
+  orig: 57, 9
+  offset: 1, 1
+  index: -1
+5_7
+  rotate: false
+  xy: 268, 46
+  size: 100, 108
+  orig: 102, 110
+  offset: 1, 1
+  index: -1
+5_8
+  rotate: false
+  xy: 418, 94
+  size: 40, 41
+  orig: 42, 43
+  offset: 1, 1
+  index: -1
+5_9
+  rotate: false
+  xy: 418, 51
+  size: 40, 41
+  orig: 42, 43
+  offset: 1, 1
+  index: -1
+6_1
+  rotate: false
+  xy: 268, 3
+  size: 77, 9
+  orig: 79, 11
+  offset: 1, 1
+  index: -1
+6_2
+  rotate: true
+  xy: 418, 137
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+6_3
+  rotate: true
+  xy: 411, 278
+  size: 118, 47
+  orig: 121, 49
+  offset: 1, 1
+  index: -1
+6_4
+  rotate: true
+  xy: 433, 398
+  size: 73, 12
+  orig: 75, 14
+  offset: 1, 1
+  index: -1
+6_5
+  rotate: false
+  xy: 2, 2
+  size: 264, 174
+  orig: 266, 176
+  offset: 1, 1
+  index: -1
+Ef1_1
+  rotate: false
+  xy: 268, 14
+  size: 97, 30
+  orig: 97, 30
+  offset: 0, 0
+  index: -1
+Ef1_2
+  rotate: true
+  xy: 370, 7
+  size: 147, 46
+  orig: 147, 46
+  offset: 0, 0
+  index: -1
+Ef1_3
+  rotate: false
+  xy: 269, 564
+  size: 171, 53
+  orig: 171, 53
+  offset: 0, 0
+  index: -1
+Ef2_1
+  rotate: false
+  xy: 297, 719
+  size: 94, 239
+  orig: 94, 239
+  offset: 0, 0
+  index: -1
+Ef2_2
+  rotate: false
+  xy: 268, 156
+  size: 141, 240
+  orig: 141, 240
+  offset: 0, 0
+  index: -1
+Ef2_3
+  rotate: false
+  xy: 269, 398
+  size: 162, 164
+  orig: 162, 164
+  offset: 0, 0
+  index: -1
+Ef3_1
+  rotate: false
+  xy: 2, 178
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+Ef3_2
+  rotate: false
+  xy: 2, 398
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+Ef3_3
+  rotate: false
+  xy: 2, 665
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+Ef4_1
+  rotate: false
+  xy: 393, 686
+  size: 49, 272
+  orig: 49, 272
+  offset: 0, 0
+  index: -1

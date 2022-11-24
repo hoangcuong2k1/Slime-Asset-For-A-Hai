@@ -1,0 +1,123 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5131087778486790241
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1277927121671302411
+  },
+  "m_Name": "",
+  "root": {
+    "m_FileID": 0,
+    "m_PathID": 6223331853893009416
+  },
+  "despawnDelay": 1.0,
+  "disableObjectsWhenOnHit": [],
+  "onFireEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 8985852216078374343
+          },
+          "m_TargetAssemblyTypeName": "Spine.Unity.SkeletonAnimation, spine-unity",
+          "m_MethodName": "set_AnimationName",
+          "m_Mode": 5,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "walk",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "onHitEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 8985852216078374343
+          },
+          "m_TargetAssemblyTypeName": "Spine.Unity.SkeletonAnimation, spine-unity",
+          "m_MethodName": "set_AnimationName",
+          "m_Mode": 5,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "attack",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -220946692246410961
+          },
+          "m_TargetAssemblyTypeName": "LoadComplete.Battle.Projectile, Assembly-CSharp",
+          "m_MethodName": "KillTwins",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "trailTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overrideJump": 0,
+  "overrideJumpValue": 0.0,
+  "fireVfxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "explosionVfxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 216740879095649614
+  },
+  "rotateType": 0,
+  "rotateSpeed": 720.0,
+  "fireSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "volume": 1.0
+  },
+  "hitSfx": {
+    "clip": {
+      "m_FileID": 3,
+      "m_PathID": 2250040703668492235
+    },
+    "volume": 1.0
+  }
+}

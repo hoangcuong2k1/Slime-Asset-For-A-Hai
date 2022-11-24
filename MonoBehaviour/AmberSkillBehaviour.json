@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6039814525706072451
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7999312867005895098
+  },
+  "m_Name": "",
+  "carriagePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 6338596724490310332
+  },
+  "projectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1131933836778421148
+  },
+  "carriageSpawnPosition": {
+    "x": -9.0,
+    "y": 0.1
+  },
+  "centerOffsetX": 2.8,
+  "firePositionOffset": {
+    "x": -1.0,
+    "y": 1.2
+  },
+  "carriageMoveSfx": {
+    "m_FileID": 0,
+    "m_PathID": 8040834270082163518
+  },
+  "carriageAttackSfx": {
+    "m_FileID": 0,
+    "m_PathID": -873303944706735439
+  },
+  "carriageMoveSpeed": 9.0,
+  "fireInterval": 0.1,
+  "projectileSpeed": 6.0,
+  "targetRangeX": {
+    "x": 1.0,
+    "y": 5.0
+  },
+  "targetRangeY": {
+    "x": 0.5,
+    "y": 1.5
+  },
+  "projectileJumpRange": {
+    "x": 1.0,
+    "y": 3.0
+  }
+}

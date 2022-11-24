@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9156407248081546780
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4318072397426634692
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 6766778282351803285
+  },
+  "dimmed": {
+    "m_FileID": 0,
+    "m_PathID": -5393550270566446359
+  },
+  "scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 134260246225122152
+  },
+  "appearSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -4796998662696208172
+    },
+    "volume": 0.8
+  },
+  "btnClose": {
+    "m_FileID": 0,
+    "m_PathID": 3217986843134988982
+  },
+  "scrollRectEnsureVisible": {
+    "m_FileID": 0,
+    "m_PathID": 3206226538384006962
+  }
+}

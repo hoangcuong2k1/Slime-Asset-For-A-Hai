@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 888508652246527109
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1855994157963538313
+  },
+  "m_Name": "",
+  "synergyId": "devil",
+  "enableBgObject": {
+    "m_FileID": 0,
+    "m_PathID": 6841706377375318636
+  },
+  "synergyCountText": {
+    "m_FileID": 0,
+    "m_PathID": -2860042047694529204
+  },
+  "synergyDescArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3629402973185949569
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3798252890701165296
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2154761114211638678
+    }
+  ],
+  "enableOutline": {
+    "m_FileID": 0,
+    "m_PathID": -245594474216519019
+  },
+  "disableOutline": {
+    "m_FileID": 0,
+    "m_PathID": -1275919911617737738
+  }
+}

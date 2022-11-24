@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3887787227742369509
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6824166747999884191
+  },
+  "m_Name": "",
+  "bg": {
+    "m_FileID": 0,
+    "m_PathID": 5733403521079631718
+  },
+  "rarityIcon": {
+    "m_FileID": 0,
+    "m_PathID": 4807691705729085844
+  },
+  "synergyIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5878418092586651835
+  },
+  "optionText": {
+    "m_FileID": 0,
+    "m_PathID": 2412151885217886251
+  },
+  "lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": -1871080847146332741
+  },
+  "slotButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

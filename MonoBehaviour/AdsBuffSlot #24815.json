@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5321630371739431600
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5455585328798139948
+  },
+  "m_Name": "",
+  "enabledObjs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8406679559479982927
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5551928578697406384
+    }
+  ],
+  "disabledObjs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7251349573662422990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1351686512213201434
+    }
+  ],
+  "buffValueText": {
+    "m_FileID": 0,
+    "m_PathID": 7374502805940105101
+  },
+  "buffTimeText": {
+    "m_FileID": 0,
+    "m_PathID": 723783417044804968
+  },
+  "buffLevelText": {
+    "m_FileID": 0,
+    "m_PathID": -5037553253925986097
+  },
+  "buffExpSlider": {
+    "m_FileID": 0,
+    "m_PathID": 2067199177100192381
+  },
+  "buffExpSliderFill": {
+    "m_FileID": 0,
+    "m_PathID": -8282728586575229944
+  },
+  "buffExpText": {
+    "m_FileID": 0,
+    "m_PathID": 5309062339771844087
+  },
+  "levelUpFx": {
+    "m_FileID": 0,
+    "m_PathID": 8256338516338436635
+  },
+  "freeConfirmBtnObj": {
+    "m_FileID": 0,
+    "m_PathID": 8307421240166856637
+  },
+  "adsConfirmBtnObj": {
+    "m_FileID": 0,
+    "m_PathID": -8575028206556730021
+  },
+  "remainTimeTextObj": {
+    "m_FileID": 0,
+    "m_PathID": 8335959595809536113
+  },
+  "disableWhenInfiniteBuffObj": {
+    "m_FileID": 0,
+    "m_PathID": 3745880293817933006
+  }
+}

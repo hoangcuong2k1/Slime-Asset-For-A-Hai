@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5237772767295991397
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2765568706372599266
+  },
+  "m_Name": "",
+  "m_ItemKey": "item",
+  "m_ItemPrefab": {
+    "m_FileID": 6,
+    "m_PathID": 3065330397099158187
+  },
+  "useLeanPool": 1,
+  "useLeanGameObjectPool": 0,
+  "gameObjectPool": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Key": "StaticBonusItems"
+}

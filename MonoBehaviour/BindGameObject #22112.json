@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4924414728494397855
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3242970711442325531
+  },
+  "m_Name": "",
+  "bindKey": "item.IsReceivable",
+  "isReverse": 0
+}

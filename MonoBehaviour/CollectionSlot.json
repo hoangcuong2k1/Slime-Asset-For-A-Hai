@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5382935161579833454
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4189221412385052489
+  },
+  "m_Name": "",
+  "txtName": {
+    "m_FileID": 0,
+    "m_PathID": -2806425928522037127
+  },
+  "txtDesc": {
+    "m_FileID": 0,
+    "m_PathID": -8990584448039768363
+  },
+  "txtUpgradeOff": {
+    "m_FileID": 0,
+    "m_PathID": 4150825253233667298
+  },
+  "txtUpgradeOn": {
+    "m_FileID": 0,
+    "m_PathID": 8751728452319877681
+  },
+  "btnUpgradeOn": {
+    "m_FileID": 0,
+    "m_PathID": 7179110391638843286
+  },
+  "btnUpgradeOff": {
+    "m_FileID": 0,
+    "m_PathID": 1274352427092331171
+  },
+  "conditionList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6710488651225668988
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8621744161597985614
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1973833322370515400
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8988153639037894537
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 379761690254578255
+    }
+  ],
+  "goLock": {
+    "m_FileID": 0,
+    "m_PathID": 624554276791703189
+  },
+  "imgFx": {
+    "m_FileID": 0,
+    "m_PathID": 5262104114048243254
+  }
+}

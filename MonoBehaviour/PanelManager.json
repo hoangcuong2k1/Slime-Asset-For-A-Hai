@@ -1,0 +1,170 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8740547125396134605
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7752092902012451455
+  },
+  "m_Name": "",
+  "defaultPanel": {
+    "m_FileID": 0,
+    "m_PathID": -1262038871190435891
+  },
+  "slimePanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": -632481026001129445
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -8380708492113463500
+    }
+  },
+  "slimeInfoPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": -2547070158471928079
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -8468736167448279532
+    }
+  },
+  "slimeSkillPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": -3375633378261009843
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -6124705772347291059
+    }
+  },
+  "slimeArtifactPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": -327000081770497629
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -6917623253599170948
+    }
+  },
+  "slimeMasteryPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": 6267420142698353994
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -4210350117208829947
+    }
+  },
+  "slimeTraitPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": 8392797937535929424
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": 3705226433260095201
+    }
+  },
+  "companionPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": -7580506781163451832
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -4042899250537525229
+    }
+  },
+  "dungeonPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": -6345266153647213845
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -1909043626168733291
+    }
+  },
+  "minePanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": -6113912452097725186
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": 321605314100514581
+    }
+  },
+  "castlePanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": 4540835699086691279
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": 8655494922473705766
+    }
+  },
+  "shopPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": 6528305426257600211
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -5238551568010002200
+    }
+  },
+  "shopSummonPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": -3349331530716296914
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": 5003535581107232381
+    }
+  },
+  "shopPackagePanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": 8272242594951069603
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -3432127909164344905
+    }
+  },
+  "shopPeriodPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": 1028833813461444557
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": 73319556064441761
+    }
+  },
+  "shopCurrencyPanel": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": -2255867845273458823
+    },
+    "panel": {
+      "m_FileID": 0,
+      "m_PathID": -6532028501530106612
+    }
+  },
+  "leagueModeBattlePanel": {
+    "m_FileID": 0,
+    "m_PathID": -4054096327176067407
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3565798240615918429
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2793829366360182751
+  },
+  "m_Name": "",
+  "interfaceName": "MawangCastle",
+  "lockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8157486845342486401
+    }
+  ],
+  "unlockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3742546529750958571
+    }
+  ]
+}

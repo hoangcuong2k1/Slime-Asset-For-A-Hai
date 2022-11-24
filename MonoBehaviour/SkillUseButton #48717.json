@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4510943089312589210
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7176931186322901049
+  },
+  "m_Name": "",
+  "goDefaultBg": {
+    "m_FileID": 0,
+    "m_PathID": 7497127185627265138
+  },
+  "goGrayBg": {
+    "m_FileID": 0,
+    "m_PathID": -3761155123234047593
+  },
+  "skillIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -1155728176627267780
+  },
+  "coolTimeFill": {
+    "m_FileID": 0,
+    "m_PathID": 45977403970139728
+  },
+  "progressingObject": {
+    "m_FileID": 0,
+    "m_PathID": -8714549297362780130
+  },
+  "progressingFill": {
+    "m_FileID": 0,
+    "m_PathID": 16934245037001328
+  },
+  "emptySlot": {
+    "m_FileID": 0,
+    "m_PathID": 40315659104664329
+  }
+}

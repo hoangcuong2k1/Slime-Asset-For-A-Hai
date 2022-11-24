@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1589574221484611957
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3989084366844519879
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "txtTitle": {
+    "m_FileID": 0,
+    "m_PathID": -323983056067448996
+  },
+  "scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": -8118862156132769099
+  },
+  "prefabSlot": {
+    "m_FileID": 0,
+    "m_PathID": -8829055151483812866
+  },
+  "imgButtonLittle": {
+    "m_FileID": 0,
+    "m_PathID": -7498795163828993177
+  },
+  "imgButtonMany": {
+    "m_FileID": 0,
+    "m_PathID": 7558481673286724536
+  },
+  "txtCostLittle": {
+    "m_FileID": 0,
+    "m_PathID": -7385901853517746156
+  },
+  "txtCostMany": {
+    "m_FileID": 0,
+    "m_PathID": -2692662119433277548
+  },
+  "txtAmountLittle": {
+    "m_FileID": 0,
+    "m_PathID": -5514955705310804750
+  },
+  "txtAmountMany": {
+    "m_FileID": 0,
+    "m_PathID": -8979049277814682666
+  },
+  "button01": {
+    "m_FileID": 0,
+    "m_PathID": -5486330558240687428
+  },
+  "button02": {
+    "m_FileID": 0,
+    "m_PathID": 3647230375976139813
+  },
+  "gachaSfx": {
+    "m_FileID": 0,
+    "m_PathID": -4796998662696208172
+  },
+  "getHighItemSfx": {
+    "m_FileID": 0,
+    "m_PathID": -5599797519441250985
+  },
+  "getVeryHighItemSfx": {
+    "m_FileID": 0,
+    "m_PathID": -7281945295929628626
+  }
+}

@@ -1,0 +1,48 @@
+
+laser_effect1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+121212
+  rotate: false
+  xy: 358, 8
+  size: 221, 7
+  orig: 221, 7
+  offset: 0, 0
+  index: -1
+131313
+  rotate: false
+  xy: 2, 2
+  size: 354, 13
+  orig: 354, 13
+  offset: 0, 0
+  index: -1
+141414
+  rotate: false
+  xy: 293, 17
+  size: 470, 17
+  orig: 470, 17
+  offset: 0, 0
+  index: -1
+Razer3_1
+  rotate: false
+  xy: 2, 17
+  size: 289, 117
+  orig: 291, 119
+  offset: 1, 1
+  index: -1
+Razer3_2
+  rotate: false
+  xy: 293, 36
+  size: 241, 98
+  orig: 243, 100
+  offset: 1, 1
+  index: -1
+Razer3_3
+  rotate: false
+  xy: 536, 68
+  size: 197, 66
+  orig: 199, 68
+  offset: 1, 1
+  index: -1

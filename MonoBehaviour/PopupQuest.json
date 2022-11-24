@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1599493625516629665
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2360231608047008534
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -7694176184396231243
+  },
+  "suiLoopScroll": {
+    "m_FileID": 0,
+    "m_PathID": -2143402898714083105
+  },
+  "dailyResetTimerText": {
+    "m_FileID": 0,
+    "m_PathID": -8569306531093584650
+  }
+}

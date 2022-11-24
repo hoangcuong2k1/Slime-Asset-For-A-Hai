@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5993880671743079118
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2394203861304995953
+  },
+  "m_Name": "",
+  "scaler": {
+    "m_FileID": 0,
+    "m_PathID": -7615158688083699452
+  },
+  "rigidbody": {
+    "m_FileID": 0,
+    "m_PathID": 6216748434432087490
+  },
+  "modelDefaultDirection": 0,
+  "modelType": 0,
+  "skeletonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -5798612105011804151
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "height": 3.23,
+  "width": 2.77,
+  "idleAnim": "idle",
+  "moveAnim": "skill_walk",
+  "deathAnim": "",
+  "idleUnityAnim": "",
+  "moveUnityAnim": "",
+  "deathUnityAnim": "",
+  "btOwner": {
+    "m_FileID": 0,
+    "m_PathID": 2930121538259120408
+  },
+  "bodyCollider": {
+    "m_FileID": 0,
+    "m_PathID": 8062778145927808003
+  },
+  "deathSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -6723630911111122065
+    },
+    "volume": 0.4
+  },
+  "deathVfxPrefabList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2762989494498566605
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5769356188186067567
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3000547171762506266
+    }
+  ],
+  "spawnAnim": "",
+  "hitAnim": "",
+  "hitUnityAnim": "hit",
+  "attackAnim": "attack",
+  "attackAnimEventName": "KeyEventAttack",
+  "panicAnim": "",
+  "attackBT": {
+    "m_FileID": 0,
+    "m_PathID": -6279218368843479495
+  },
+  "projectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "projectileSpeed": 0.0,
+  "projectileType": 0,
+  "projectileSpawnPivotType": 0,
+  "projectileSpawnOffset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

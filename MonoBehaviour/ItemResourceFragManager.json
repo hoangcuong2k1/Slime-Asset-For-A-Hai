@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6170210616009695131
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2986164325583393231
+  },
+  "m_Name": "",
+  "prefab": {
+    "m_FileID": 0,
+    "m_PathID": 3695534533347504642
+  },
+  "uiParent": {
+    "m_FileID": 0,
+    "m_PathID": -8786289598946834530
+  },
+  "popupParent": {
+    "m_FileID": 0,
+    "m_PathID": -8731376512435768408
+  }
+}

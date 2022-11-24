@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1515879871814316383
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6927984035129087260
+  },
+  "m_Name": "",
+  "bg": {
+    "m_FileID": 0,
+    "m_PathID": 1749783099328107007
+  },
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 3097699350537369575
+  },
+  "sliderLevel": {
+    "m_FileID": 0,
+    "m_PathID": -3893661520011939929
+  },
+  "txtLevel": {
+    "m_FileID": 0,
+    "m_PathID": 7490436218352211444
+  },
+  "txtName": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "research": {
+    "m_FileID": 0,
+    "m_PathID": -8401240945407382432
+  },
+  "outline": {
+    "m_FileID": 0,
+    "m_PathID": -271819323324819432
+  },
+  "redDot": {
+    "m_FileID": 0,
+    "m_PathID": 4910099101935632631
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3011932300021111929
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2575088389193258422
+  },
+  "m_Name": "",
+  "skeletonAnimations": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8809388549315822667
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7348318708438050091
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2653595736870737285
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2188251284915983028
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -64421067948657057
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4510985710227112770
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4484912959026734936
+    }
+  ]
+}

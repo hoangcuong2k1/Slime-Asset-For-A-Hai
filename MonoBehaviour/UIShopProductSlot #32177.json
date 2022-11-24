@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4358915616226316615
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8287268331135866272
+  },
+  "m_Name": "",
+  "saleRibbonObj": {
+    "m_FileID": 0,
+    "m_PathID": -1696070273204633044
+  },
+  "saleRibbonText": {
+    "m_FileID": 0,
+    "m_PathID": -3044154900824791964
+  },
+  "purchaseButton": {
+    "m_FileID": 0,
+    "m_PathID": 2807048140988847778
+  },
+  "priceText": {
+    "m_FileID": 0,
+    "m_PathID": -9043400550449985921
+  },
+  "autoSetTitle": 1,
+  "titleText": {
+    "m_FileID": 0,
+    "m_PathID": -3641371694930516241
+  },
+  "purchaseCountText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "remainTimeObj": {
+    "m_FileID": 0,
+    "m_PathID": 87688665406280102
+  },
+  "remainTimeText": {
+    "m_FileID": 0,
+    "m_PathID": 3693143309641690650
+  },
+  "rewardSlotArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3301581713700426938
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1909916044062272598
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5053908956028290754
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3758425701038486280
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4747782236242114830
+    }
+  ],
+  "rewardValueTextArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5917442929794488761
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6746028484745180520
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4524946337299404789
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3064117631379550201
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 794275594985598026
+    }
+  ]
+}

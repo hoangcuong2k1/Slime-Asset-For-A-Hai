@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3239804069890092482
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4792008904694137870
+  },
+  "m_Name": "",
+  "onClick": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onPointerDown": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onPointerEventEnd": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

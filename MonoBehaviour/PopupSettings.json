@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8001005130474707599
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1946131696598054094
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 5916171665441126092
+  },
+  "userInfoContext": {
+    "m_FileID": 0,
+    "m_PathID": 5297552895874177992
+  },
+  "titleText": {
+    "m_FileID": 0,
+    "m_PathID": 6219433518496698842
+  },
+  "goUserInfoGroup": {
+    "m_FileID": 0,
+    "m_PathID": 7966548179865223244
+  },
+  "goSettingsGroup": {
+    "m_FileID": 0,
+    "m_PathID": -3750104193948788311
+  },
+  "bgm": {
+    "m_FileID": 0,
+    "m_PathID": 1881753292064903551
+  },
+  "sfx": {
+    "m_FileID": 0,
+    "m_PathID": -1706294164904832234
+  },
+  "shake": {
+    "m_FileID": 0,
+    "m_PathID": 8354536745290857079
+  },
+  "localNoti": {
+    "m_FileID": 0,
+    "m_PathID": 5989705472910407499
+  },
+  "sleepMode": {
+    "m_FileID": 0,
+    "m_PathID": -1984370504092452968
+  },
+  "selectCategoryGraphic": {
+    "m_FileID": 0,
+    "m_PathID": 2043583199842577175
+  },
+  "menuParent": {
+    "m_FileID": 0,
+    "m_PathID": 1811614554738262365
+  },
+  "userInfoToggle": {
+    "m_FileID": 0,
+    "m_PathID": -2865474006029338276
+  },
+  "settingsToggle": {
+    "m_FileID": 0,
+    "m_PathID": 6754650675715750825
+  },
+  "menuFrontBoard": {
+    "m_FileID": 0,
+    "m_PathID": 5647036379414959791
+  },
+  "promoGroupObj": {
+    "m_FileID": 0,
+    "m_PathID": 1492804802273231903
+  },
+  "txtUid": {
+    "m_FileID": 0,
+    "m_PathID": 7374312509771139248
+  },
+  "txtVersion": {
+    "m_FileID": 0,
+    "m_PathID": -7991991315563024216
+  },
+  "couponButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -8271598756217727753
+  }
+}

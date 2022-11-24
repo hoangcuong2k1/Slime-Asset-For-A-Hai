@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2288496312752836201
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "ExploreAreaSlimeSlot",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -743653888875188644
+    },
+    "worldPosition": {
+      "x": 1.4774338,
+      "y": -3.95815158,
+      "z": 90.0
+    },
+    "rectSize": {
+      "x": 185.3244,
+      "y": 212.1339
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

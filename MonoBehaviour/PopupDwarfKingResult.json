@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8232930988307019446
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7116858738011151910
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "damageRecord": {
+    "m_FileID": 0,
+    "m_PathID": -5191927350047909687
+  },
+  "newRecordIconRt": {
+    "m_FileID": 0,
+    "m_PathID": 56402614209588928
+  },
+  "rewardScroll": {
+    "m_FileID": 0,
+    "m_PathID": -3444794483735878938
+  },
+  "rewardSlotPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -9172572240246321831
+  },
+  "rewardBoxRt": {
+    "m_FileID": 0,
+    "m_PathID": -7644664917845484556
+  },
+  "rewardAmountTxt": {
+    "m_FileID": 0,
+    "m_PathID": -3008509130837094761
+  },
+  "playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": 2121823671812215010
+  },
+  "appearTimeline": {
+    "m_FileID": 0,
+    "m_PathID": -8981128296411407901
+  },
+  "showRecordTimeline": {
+    "m_FileID": 0,
+    "m_PathID": 8427755823839234981
+  },
+  "recordPanelObj": {
+    "m_FileID": 0,
+    "m_PathID": 9185890494286325148
+  },
+  "confirmButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -2661917365615566626
+  },
+  "dwarfKingSpineObj": {
+    "m_FileID": 0,
+    "m_PathID": -4238535529384513526
+  },
+  "skipRewardFxObj": {
+    "m_FileID": 0,
+    "m_PathID": 1628645505820719547
+  }
+}

@@ -1,0 +1,90 @@
+
+ornis.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body1
+  rotate: false
+  xy: 2, 3
+  size: 88, 67
+  orig: 88, 67
+  offset: 0, 0
+  index: -1
+L_eye1
+  rotate: true
+  xy: 302, 7
+  size: 10, 26
+  orig: 12, 27
+  offset: 1, 1
+  index: -1
+R_eye1
+  rotate: true
+  xy: 302, 7
+  size: 10, 26
+  orig: 12, 27
+  offset: 1, 1
+  index: -1
+L_eye2
+  rotate: false
+  xy: 360, 41
+  size: 19, 29
+  orig: 21, 30
+  offset: 1, 1
+  index: -1
+R_eye2
+  rotate: false
+  xy: 360, 10
+  size: 19, 29
+  orig: 21, 30
+  offset: 1, 1
+  index: -1
+acc1
+  rotate: true
+  xy: 152, 12
+  size: 58, 57
+  orig: 60, 59
+  offset: 1, 1
+  index: -1
+acc2
+  rotate: false
+  xy: 302, 19
+  size: 29, 51
+  orig: 31, 52
+  offset: 1, 1
+  index: -1
+awdawd
+  rotate: false
+  xy: 92, 12
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 211, 3
+  size: 67, 44
+  orig: 69, 46
+  offset: 1, 1
+  index: -1
+eye2_2
+  rotate: true
+  xy: 257, 2
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+mo1
+  rotate: true
+  xy: 333, 42
+  size: 28, 24
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+mo2
+  rotate: false
+  xy: 333, 15
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1

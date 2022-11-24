@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1872477371459558063
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6418912621917680811
+  },
+  "m_Name": "",
+  "treasureSlotName": {
+    "m_FileID": 0,
+    "m_PathID": -8728984345646030389
+  },
+  "toggleArrowRt": {
+    "m_FileID": 0,
+    "m_PathID": -6196455236503200964
+  },
+  "slotPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -7732946503087315358
+  },
+  "slotParent": {
+    "m_FileID": 0,
+    "m_PathID": -4459619096821116489
+  },
+  "dropdownObj": {
+    "m_FileID": 0,
+    "m_PathID": -2099163863218377399
+  }
+}

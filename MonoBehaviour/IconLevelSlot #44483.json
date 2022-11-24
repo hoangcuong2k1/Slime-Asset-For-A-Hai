@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5912947685965398238
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 3,
+    "m_PathID": -8390302113004231768
+  },
+  "m_Name": "",
+  "imgBg": {
+    "m_FileID": 0,
+    "m_PathID": 5146658229215210306
+  },
+  "imgStateMark": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "imgIcon": {
+    "m_FileID": 0,
+    "m_PathID": -1093353583956990558
+  },
+  "imgGaugeFill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "selectedBg": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "equippedTextObj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "txtLevel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "txtBp": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "sliderBp": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "goRedDot": {
+    "m_FileID": 0,
+    "m_PathID": -8610993229335604803
+  },
+  "goLock": {
+    "m_FileID": 0,
+    "m_PathID": 233595099613049825
+  },
+  "goEmpty": {
+    "m_FileID": 0,
+    "m_PathID": -6004018414099460488
+  },
+  "goLevelUpArrow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "stateMarkObj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "spriteFillNormal": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "spriteFillMax": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

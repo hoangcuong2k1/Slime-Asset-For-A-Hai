@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2848184463316906147
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3882081019831696694
+  },
+  "m_Name": "",
+  "body": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overrideBottomLayoutHeight": 1,
+  "targetHeightRatio": 1.0,
+  "isEnableMenuLayout": 1,
+  "isEnableSkillUseButtonLayout": 0,
+  "isEnableDefaultPanel": 0,
+  "isEnablePanelDimmed": 1,
+  "isReduceBattleSfx": 1,
+  "isFullScreen": 1,
+  "slotParent": {
+    "m_FileID": 0,
+    "m_PathID": 6360660149013762619
+  },
+  "scrollRectEnsureVisible": {
+    "m_FileID": 0,
+    "m_PathID": 4153879223931156033
+  },
+  "emptyProductObj": {
+    "m_FileID": 0,
+    "m_PathID": -1790621553748686393
+  }
+}

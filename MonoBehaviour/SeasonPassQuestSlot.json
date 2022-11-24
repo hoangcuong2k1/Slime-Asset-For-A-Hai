@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3316427442668414401
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -87537200124849444
+  },
+  "m_Name": "",
+  "bg": {
+    "m_FileID": 0,
+    "m_PathID": 3334322531106351327
+  },
+  "txtName": {
+    "m_FileID": 0,
+    "m_PathID": 8418575341725412023
+  },
+  "txtDesc": {
+    "m_FileID": 0,
+    "m_PathID": 7400653275894770615
+  },
+  "iconReward": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -861122052449899984
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4510836192273516434
+    }
+  ],
+  "txtRewardAmount": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -615233324391134735
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1387893229660859131
+    }
+  ],
+  "progress": {
+    "m_FileID": 0,
+    "m_PathID": -6078457837707752245
+  },
+  "txtProgress": {
+    "m_FileID": 0,
+    "m_PathID": -2981233746988911094
+  },
+  "goRewardButton": {
+    "m_FileID": 0,
+    "m_PathID": 4178377346549072074
+  },
+  "goLock": {
+    "m_FileID": 0,
+    "m_PathID": 1106079972467334118
+  },
+  "goLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": -573193731003268846
+  },
+  "txtLockDesc": {
+    "m_FileID": 0,
+    "m_PathID": -1675389775868095415
+  },
+  "timeView": {
+    "m_FileID": 0,
+    "m_PathID": 5640416404686725362
+  }
+}

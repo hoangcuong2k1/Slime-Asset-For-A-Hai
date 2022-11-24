@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3609924307663873962
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "btnUpgrade",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -7644269449330685680
+    },
+    "worldPosition": {
+      "x": 167.0,
+      "y": 94.97266,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 240.0,
+      "y": 90.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

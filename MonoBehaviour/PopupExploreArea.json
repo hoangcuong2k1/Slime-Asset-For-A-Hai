@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2342715817260415469
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6181967600104197285
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "dataBindContext": {
+    "m_FileID": 0,
+    "m_PathID": 5442570339657673126
+  },
+  "defaultLabelColor": {
+    "r": 0.1764706,
+    "g": 0.396078467,
+    "b": 0.4901961,
+    "a": 1.0
+  },
+  "exploringLabelColor": {
+    "r": 0.117647067,
+    "g": 0.435294151,
+    "b": 0.235294133,
+    "a": 1.0
+  },
+  "defaultLabelTextColor": {
+    "r": 0.694117665,
+    "g": 0.792156935,
+    "b": 0.8352942,
+    "a": 1.0
+  },
+  "exploringLabelTextColor": {
+    "r": 0.58431375,
+    "g": 0.866666734,
+    "b": 0.623529434,
+    "a": 1.0
+  },
+  "disableLabelTextColor": {
+    "r": 0.7,
+    "g": 0.7,
+    "b": 0.7,
+    "a": 1.0
+  },
+  "bonusMatchedLabelTextColor": {
+    "r": 1.0,
+    "g": 0.8980392,
+    "b": 0.223529413,
+    "a": 1.0
+  },
+  "equipSfx": {
+    "m_FileID": 20,
+    "m_PathID": -4484222622725149338
+  }
+}

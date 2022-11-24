@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6877066915466265895
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2793829366360182751
+  },
+  "m_Name": "",
+  "interfaceName": "ArtifactButton",
+  "lockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8572016042693292500
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4418925098584363816
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -794491291347585601
+    }
+  ],
+  "unlockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7525041390494832349
+    }
+  ]
+}

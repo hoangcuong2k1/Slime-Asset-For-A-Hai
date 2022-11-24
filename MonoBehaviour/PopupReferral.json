@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4085324333123546625
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2527240910259064223
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 2687699874329296507
+  },
+  "context": {
+    "m_FileID": 0,
+    "m_PathID": 8039856630849081215
+  },
+  "rewardListItemParent": {
+    "m_FileID": 0,
+    "m_PathID": 6847616453940175009
+  }
+}

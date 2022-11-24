@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1869036397886268308
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2765568706372599266
+  },
+  "m_Name": "",
+  "m_ItemKey": "item",
+  "m_ItemPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "useLeanPool": 1,
+  "useLeanGameObjectPool": 1,
+  "gameObjectPool": {
+    "m_FileID": 0,
+    "m_PathID": -4038445519654610956
+  },
+  "m_Key": "ShopMainProductItems"
+}

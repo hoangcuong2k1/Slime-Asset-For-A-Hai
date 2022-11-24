@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7956660377103695330
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8594687143902920408
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -2536307682639519481
+  },
+  "context": {
+    "m_FileID": 0,
+    "m_PathID": 5266555109761670256
+  },
+  "difficultyContentTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9142631607689896554
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3520893426730300109
+    }
+  ],
+  "defaultDifficultForegroundColor": {
+    "r": 0.7372549,
+    "g": 0.7294118,
+    "b": 0.9137255,
+    "a": 1.0
+  },
+  "defaultDifficultOutlineColor": {
+    "r": 0.1764706,
+    "g": 0.164705887,
+    "b": 0.152941182,
+    "a": 1.0
+  },
+  "currentDifficultForegroundColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "currentDifficultOutlineColor": {
+    "r": 0.137254909,
+    "g": 0.4509804,
+    "b": 0.5294118,
+    "a": 1.0
+  },
+  "sprDefaultDifficultyIcon": {
+    "m_FileID": 0,
+    "m_PathID": 4444446596472899490
+  },
+  "sprCurrentDifficultyIcon": {
+    "m_FileID": 0,
+    "m_PathID": 5769011798219807680
+  },
+  "stageChangeTweenTarget": {
+    "m_FileID": 0,
+    "m_PathID": 1710642734129590886
+  },
+  "stageChangeEaseScaleFrom": {
+    "x": 1.4,
+    "y": 1.4
+  },
+  "stageChangeEase": 30,
+  "stageChangeEaseDuration": 0.2,
+  "enterDungeonSfx": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "animatorPlace": {
+    "m_FileID": 0,
+    "m_PathID": -3079011658161465338
+  },
+  "spotlightTransform": {
+    "m_FileID": 0,
+    "m_PathID": 838620722913997060
+  },
+  "spotlightEaseDuration": 0.2,
+  "spotlightEase": 6
+}

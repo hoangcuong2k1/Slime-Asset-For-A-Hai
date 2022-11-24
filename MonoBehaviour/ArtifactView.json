@@ -1,0 +1,138 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2660952150419450511
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3431573532471868110
+  },
+  "m_Name": "",
+  "body": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overrideBottomLayoutHeight": 0,
+  "targetHeightRatio": 0.58,
+  "isEnableMenuLayout": 1,
+  "isEnableSkillUseButtonLayout": 1,
+  "isEnableDefaultPanel": 1,
+  "isEnablePanelDimmed": 1,
+  "isReduceBattleSfx": 1,
+  "isFullScreen": 1,
+  "totalArtifactCount": {
+    "m_FileID": 0,
+    "m_PathID": -407611643386882675
+  },
+  "gachaPriceText": {
+    "m_FileID": 0,
+    "m_PathID": 5461751565901349677
+  },
+  "gachaButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -5997945007968328376
+  },
+  "gachaButtonStateController": {
+    "m_FileID": 0,
+    "m_PathID": -5712753700374986932
+  },
+  "slots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1982147539599330251
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6174033898483037196
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -421327696111926594
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3625642829256903127
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2518382417354048415
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8949942946500291393
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 828480791629557031
+    }
+  ],
+  "goblinRt": {
+    "m_FileID": 0,
+    "m_PathID": 4020427277164064340
+  },
+  "goblinJumpDelayAfterAppear": 0.5,
+  "goblinJumpPower": 120.0,
+  "goblinBeforePosition": {
+    "m_FileID": 0,
+    "m_PathID": -1325473551658835643
+  },
+  "goblinAfterPosition": {
+    "m_FileID": 0,
+    "m_PathID": -5955944119294114568
+  },
+  "panelRt": {
+    "m_FileID": 0,
+    "m_PathID": -4567896220461998535
+  },
+  "panelAppearCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.70847225,
+        "outSlope": 2.70847225,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.08980006
+      },
+      {
+        "time": 0.7666821,
+        "value": 1.10389864,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.112488255,
+        "outWeight": 0.302265465
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.704039633,
+        "outSlope": -0.704039633,
+        "weightedMode": 0,
+        "inWeight": 0.3242747,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "panelAppearDuration": 0.3,
+  "bounceDelay": 0.230004624,
+  "bushRtArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -697174309741220441
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2999641507729285673
+    }
+  ],
+  "platformRt": {
+    "m_FileID": 0,
+    "m_PathID": 6414964802819615233
+  }
+}

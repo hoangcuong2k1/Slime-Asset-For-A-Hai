@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "DwarfKingResult_ShowRecord",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2760866445476952511
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4459653631937773732
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7422685851543271631
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4220093230279369646
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7014391459196938698
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3685512891422999304
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9085048110527554499
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4214513632903805608
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -5300954992135951651
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5767855879012560447
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2793829366360182751
+  },
+  "m_Name": "",
+  "interfaceName": "MailBox",
+  "lockObjects": [],
+  "unlockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7648561138802941394
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+10100_pet.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 2, 5
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: true
+  xy: 145, 4
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: true
+  xy: 145, 4
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+L_wing
+  rotate: 270
+  xy: 206, 5
+  size: 39, 30
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Layer 73 copy
+  rotate: false
+  xy: 63, 2
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+Layer 73 copy 2
+  rotate: false
+  xy: 104, 2
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 145, 22
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+R_wing
+  rotate: true
+  xy: 178, 17
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1

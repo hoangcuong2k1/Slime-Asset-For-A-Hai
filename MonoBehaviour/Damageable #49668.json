@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1404423120324087183
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3292782308001767655
+  },
+  "m_Name": "",
+  "onDeathUnityEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onInitUnityEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

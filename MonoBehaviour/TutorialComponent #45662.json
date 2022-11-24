@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2903124235171743926
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "AutoSkill Toggle",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 7072221109944045530
+    },
+    "worldPosition": {
+      "x": 75.0,
+      "y": 705.7,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 90.0,
+      "y": 90.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

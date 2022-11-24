@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7366290571601817769
+  },
+  "m_Name": "GoldDungeonData",
+  "currencyType": 5,
+  "maxTicket": 20,
+  "refillTicket": 2,
+  "useAdRefill": 1,
+  "maxAdCount": 2,
+  "adType": 10,
+  "dungeonInfoUIPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -1653311438316965529
+  },
+  "dungeonEntranceAnimatorPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 4593978417497079236
+  },
+  "backgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 8240744179489832442
+  },
+  "ticketIconSprite": {
+    "m_FileID": 0,
+    "m_PathID": -4394835464798864621
+  },
+  "popupBannerSprite": {
+    "m_FileID": 0,
+    "m_PathID": -210194209152455291
+  },
+  "nameKey": "DUNGEON_NAME_GOLD",
+  "descKey": "DUNGEON_DESC_GOLD"
+}

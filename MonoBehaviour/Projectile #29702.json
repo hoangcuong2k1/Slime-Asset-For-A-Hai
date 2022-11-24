@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3077931683359434974
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1277927121671302411
+  },
+  "m_Name": "",
+  "root": {
+    "m_FileID": 0,
+    "m_PathID": 3027487568936628455
+  },
+  "despawnDelay": 0.1,
+  "disableObjectsWhenOnHit": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3202831951250211312
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5144119900123460723
+    }
+  ],
+  "onFireEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -1287950076023673881
+          },
+          "m_TargetAssemblyTypeName": "Spine.Unity.SkeletonAnimation, spine-unity",
+          "m_MethodName": "set_AnimationName",
+          "m_Mode": 5,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "run",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "onHitEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "trailTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overrideJump": 0,
+  "overrideJumpValue": 0.0,
+  "fireVfxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "explosionVfxPrefab": {
+    "m_FileID": 2,
+    "m_PathID": 9145981744085447640
+  },
+  "rotateType": 0,
+  "rotateSpeed": 720.0,
+  "fireSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "volume": 1.0
+  },
+  "hitSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -6402100786926831147
+    },
+    "volume": 0.85
+  }
+}

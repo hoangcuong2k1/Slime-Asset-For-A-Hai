@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2535220993572890789
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8933552512535053257
+  },
+  "m_Name": "",
+  "synergyIcon": {
+    "m_FileID": 0,
+    "m_PathID": 5590591295188197382
+  },
+  "synergySummaryText": {
+    "m_FileID": 0,
+    "m_PathID": -5530438063429532553
+  }
+}

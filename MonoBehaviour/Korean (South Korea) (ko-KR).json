@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5017138534136241537
+  },
+  "m_Name": "Korean (South Korea) (ko-KR)",
+  "m_Identifier": {
+    "m_Code": "ko-KR"
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "id": 0
+      }
+    ]
+  },
+  "m_LocaleName": "Korean (South Korea) (ko-KR)",
+  "m_CustomFormatCultureCode": "",
+  "m_UseCustomFormatter": 0,
+  "m_SortOrder": 7,
+  "references": {
+    "version": 1,
+    "00000000": {
+      "type": {
+        "class": "FallbackLocale",
+        "ns": "UnityEngine.Localization.Metadata",
+        "asm": "Unity.Localization"
+      },
+      "data": {}
+    }
+  }
+}

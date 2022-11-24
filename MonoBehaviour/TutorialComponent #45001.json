@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -353183665286697747
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "GachaButton",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -4973990553333922622
+    },
+    "worldPosition": {
+      "x": 348.3333,
+      "y": 66.0,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 63.3333321,
+      "y": 132.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 1
+  }
+}

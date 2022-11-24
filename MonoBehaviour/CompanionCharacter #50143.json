@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1260108081983692622
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -385726931426111141
+  },
+  "m_Name": "",
+  "scaler": {
+    "m_FileID": 0,
+    "m_PathID": 3977064562376146388
+  },
+  "rigidbody": {
+    "m_FileID": 0,
+    "m_PathID": -3012492307013240822
+  },
+  "modelDefaultDirection": 0,
+  "modelType": 0,
+  "skeletonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8530550126103068491
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "height": 0.9,
+  "width": 0.64,
+  "idleAnim": "idle",
+  "moveAnim": "idle",
+  "deathAnim": "",
+  "idleUnityAnim": "",
+  "moveUnityAnim": "",
+  "deathUnityAnim": "",
+  "firePosition": {
+    "m_FileID": 0,
+    "m_PathID": -382646908725732277
+  },
+  "projectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 6906592183583203180
+  },
+  "projectileType": 0,
+  "attackAnim": "attack",
+  "attackUnityAnim": ""
+}

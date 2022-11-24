@@ -1,0 +1,55 @@
+
+10006_slime_skill.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 1
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 54, 16
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+eyesdeco
+  rotate: false
+  xy: 55, 3
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+sting
+  rotate: false
+  xy: 56, 33
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1, 65
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: false
+  xy: 38, 64
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 77, 64
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1

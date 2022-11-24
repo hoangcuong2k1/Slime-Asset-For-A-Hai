@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1161111650107265374
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1855994157963538313
+  },
+  "m_Name": "",
+  "synergyId": "hydra",
+  "enableBgObject": {
+    "m_FileID": 0,
+    "m_PathID": -2183168853358429304
+  },
+  "synergyCountText": {
+    "m_FileID": 0,
+    "m_PathID": -8568505313954317637
+  },
+  "synergyDescArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5205259559621365995
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2329578625629622464
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7705960742147557687
+    }
+  ],
+  "enableOutline": {
+    "m_FileID": 0,
+    "m_PathID": -245594474216519019
+  },
+  "disableOutline": {
+    "m_FileID": 0,
+    "m_PathID": -1275919911617737738
+  }
+}

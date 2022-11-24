@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4085324333123546625
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8940529911906571770
+  },
+  "m_Name": "",
+  "ignoreList": [],
+  "bindables": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 88401978739527906
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6477088445726873751
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1146832727724854880
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1299572594524583118
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7713178517490016211
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6409122791853290451
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3795092759371927070
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5073017415844907025
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7073161178783691429
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2293630389235151294
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7932588367553709791
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 196295149668455704
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 626682000204410658
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2567936816266721604
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3685744607841934564
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2769581237114385166
+    }
+  ]
+}

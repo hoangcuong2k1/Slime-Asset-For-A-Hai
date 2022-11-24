@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3382005516669354019
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9122906320147555786
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -5356753728160181746
+  },
+  "resultGemAmountText": {
+    "m_FileID": 0,
+    "m_PathID": 981318325599542985
+  },
+  "resultGemIconRt": {
+    "m_FileID": 0,
+    "m_PathID": 5634270525927131823
+  },
+  "richRt": {
+    "m_FileID": 0,
+    "m_PathID": 7534770818626902743
+  },
+  "additionalGemRt": {
+    "m_FileID": 0,
+    "m_PathID": -4145163876225544874
+  },
+  "additionalGemIconRt": {
+    "m_FileID": 0,
+    "m_PathID": 8720073536777262193
+  },
+  "additionalResultGemAmountText": {
+    "m_FileID": 0,
+    "m_PathID": -6828983421728081005
+  },
+  "releaseHandDuration": 0.266666681,
+  "step1Object": {
+    "m_FileID": 0,
+    "m_PathID": 8859661322665786313
+  },
+  "step2Object": {
+    "m_FileID": 0,
+    "m_PathID": -9137919491173755686
+  },
+  "step3Object": {
+    "m_FileID": 0,
+    "m_PathID": -8847535458559467860
+  },
+  "step3ButtonGroup": {
+    "m_FileID": 0,
+    "m_PathID": 6183811247155940158
+  },
+  "step3AgainButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -4615185063526342910
+  },
+  "step3SpeechBubbleObj": {
+    "m_FileID": 0,
+    "m_PathID": 5309750764177120454
+  },
+  "step3GreatSpeechBubbleObj": {
+    "m_FileID": 0,
+    "m_PathID": -368071944493525845
+  },
+  "step3GreatRichObj": {
+    "m_FileID": 0,
+    "m_PathID": 2352255309895922317
+  },
+  "step3GreatFxObj": {
+    "m_FileID": 0,
+    "m_PathID": -5663062169996716007
+  }
+}

@@ -1,0 +1,27 @@
+
+10002_slime_skill.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 73, 14
+  size: 25, 25
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+acc
+  rotate: false
+  xy: 72, 42
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5492487751715505599
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6582133500887627985
+  },
+  "m_Name": "",
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -8383060152787092030
+  },
+  "goEquipLight": {
+    "m_FileID": 0,
+    "m_PathID": -4533545689428475824
+  },
+  "goEmptyIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "goTreasureIcon": {
+    "m_FileID": 0,
+    "m_PathID": 5827448465864498846
+  },
+  "goRedDot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "imgTreasureIcon": {
+    "m_FileID": 0,
+    "m_PathID": -8347225612748515904
+  }
+}

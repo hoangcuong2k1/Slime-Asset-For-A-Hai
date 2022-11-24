@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8299058634275925754
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8288871313244016613
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "titleObj": {
+    "m_FileID": 0,
+    "m_PathID": -4373678851727415264
+  },
+  "titleTxt": {
+    "m_FileID": 0,
+    "m_PathID": -5772688958699013608
+  },
+  "closeButtonRt": {
+    "m_FileID": 0,
+    "m_PathID": 4481824571869631001
+  },
+  "tipContextPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -4909895653895168827
+  },
+  "tfTipPlace": {
+    "m_FileID": 0,
+    "m_PathID": -6829326977422698569
+  },
+  "tipCount": 4,
+  "tipTweenDelay": 0.4,
+  "tipTweenInterval": 0.2,
+  "tipScaleTweenDuration": 0.4,
+  "tipScaleTweenEase": 27,
+  "treasurePurchasable": {
+    "m_FileID": 6,
+    "m_PathID": -8640632172424181538
+  },
+  "bestWeaponEquipEnable": {
+    "m_FileID": 6,
+    "m_PathID": 4186094708585572583
+  },
+  "bestArmorEquipEnable": {
+    "m_FileID": 6,
+    "m_PathID": -7254531453132471517
+  },
+  "weaponUpgradable": {
+    "m_FileID": 6,
+    "m_PathID": 4849015120726665326
+  },
+  "armorUpgradable": {
+    "m_FileID": 6,
+    "m_PathID": 7499146995608712191
+  },
+  "skillUpgradable": {
+    "m_FileID": 6,
+    "m_PathID": -3620204572641629540
+  },
+  "companionUpgradable": {
+    "m_FileID": 6,
+    "m_PathID": 7116573662224808555
+  }
+}

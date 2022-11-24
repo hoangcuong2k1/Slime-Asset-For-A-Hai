@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7608251494979420906
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2793829366360182751
+  },
+  "m_Name": "",
+  "interfaceName": "SkillUseButton_1",
+  "lockObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7087023697297392106
+    }
+  ],
+  "unlockObjects": []
+}

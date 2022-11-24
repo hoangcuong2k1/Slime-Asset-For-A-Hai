@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1838063196173092474
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 968796850224110202
+  },
+  "m_Name": "",
+  "currencyType": 17,
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 6231046564868263505
+  },
+  "amountText": {
+    "m_FileID": 0,
+    "m_PathID": -4377385175565262666
+  },
+  "bigDoubleFormatToggle": 1,
+  "bigDoubleFormatCondition": 4
+}

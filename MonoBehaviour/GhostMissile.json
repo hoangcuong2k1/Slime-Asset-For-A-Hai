@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2837973795509737193
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8202589507822927976
+  },
+  "m_Name": "",
+  "root": {
+    "m_FileID": 0,
+    "m_PathID": -293550326624114779
+  },
+  "despawnDelay": 0.0,
+  "disableObjectsWhenOnHit": [],
+  "onFireEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onHitEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "trailTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8387526626770073635
+  },
+  "overrideJump": 0,
+  "overrideJumpValue": 0.0,
+  "fireVfxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "explosionVfxPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -5530190944718504894
+  },
+  "rotateType": 0,
+  "rotateSpeed": 120.0,
+  "fireSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "volume": 1.0
+  },
+  "hitSfx": {
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -1930606124883711559
+    },
+    "volume": 1.0
+  },
+  "manualCollider": {
+    "m_FileID": 0,
+    "m_PathID": -7466638734252472727
+  },
+  "_homingSpeed": 13.0,
+  "_homingTorque": 400.0,
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 42666257410752004
+  },
+  "sprAttack": {
+    "m_FileID": 0,
+    "m_PathID": 8461756161343998245
+  },
+  "sprIdle": {
+    "m_FileID": 0,
+    "m_PathID": 5633304045499069207
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "ornis_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6415779103718012119
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 382482513525709345
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5329626302662320868
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "DungeonButton",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 3715961495063132330
+    },
+    "worldPosition": {
+      "x": 259.5,
+      "y": 31.7109375,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 120.021675,
+      "y": 132.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 1
+  }
+}

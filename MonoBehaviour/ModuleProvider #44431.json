@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3851612527231318641
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5886396007936376694
+  },
+  "m_Name": "",
+  "tmModules": {
+    "m_FileID": 0,
+    "m_PathID": 5491143133028859428
+  },
+  "goBlock": {
+    "m_FileID": 0,
+    "m_PathID": 3413962346925477738
+  },
+  "messageBox": {
+    "m_FileID": 0,
+    "m_PathID": 4087653356390680945
+  },
+  "canvas": {
+    "m_FileID": 0,
+    "m_PathID": 7431981247824452464
+  }
+}

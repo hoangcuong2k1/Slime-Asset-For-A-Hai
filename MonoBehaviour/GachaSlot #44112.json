@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8919346761973865105
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7705107267659013260
+  },
+  "m_Name": "",
+  "adType": "CompanionGacha",
+  "goAdLock": {
+    "m_FileID": 0,
+    "m_PathID": -3578725949682478755
+  },
+  "txtLevel": {
+    "m_FileID": 0,
+    "m_PathID": 519975306990945536
+  },
+  "txtExp": {
+    "m_FileID": 0,
+    "m_PathID": -2482190620589642791
+  },
+  "sliderExp": {
+    "m_FileID": 0,
+    "m_PathID": 533465792103776908
+  },
+  "littleGachaButtonBg": {
+    "m_FileID": 0,
+    "m_PathID": 2523906603978899576
+  },
+  "manyGachaButtonBg": {
+    "m_FileID": 0,
+    "m_PathID": 4083964600527349
+  },
+  "adGachaButtonBg": {
+    "m_FileID": 0,
+    "m_PathID": 4922995116469338805
+  },
+  "txtCostLittle": {
+    "m_FileID": 0,
+    "m_PathID": 5173205307803243757
+  },
+  "txtCostMany": {
+    "m_FileID": 0,
+    "m_PathID": -5408193825761318259
+  },
+  "txtAmountLittle": {
+    "m_FileID": 0,
+    "m_PathID": 1129228174008914768
+  },
+  "txtAmountMany": {
+    "m_FileID": 0,
+    "m_PathID": 7874629601818011047
+  },
+  "txtAdGachaAmount": {
+    "m_FileID": 0,
+    "m_PathID": 7367738046763057188
+  },
+  "txtAdViewCount": {
+    "m_FileID": 0,
+    "m_PathID": -5232139513659882897
+  },
+  "txtUnlockCondition": {
+    "m_FileID": 0,
+    "m_PathID": -8278886680467524785
+  },
+  "goLevelUpFx": {
+    "m_FileID": 0,
+    "m_PathID": -306322330022492159
+  },
+  "txtPrevLevel": {
+    "m_FileID": 0,
+    "m_PathID": 3311608474806317185
+  },
+  "txtCurrentLevel": {
+    "m_FileID": 0,
+    "m_PathID": 2882532461327222443
+  },
+  "txtLevelUpDesc": {
+    "m_FileID": 0,
+    "m_PathID": -8937282872253159264
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 955547062776861061
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6368971253435845694
+  },
+  "m_Name": "",
+  "mailTitle": {
+    "m_FileID": 0,
+    "m_PathID": -1054048967520378090
+  },
+  "remainTimeText": {
+    "m_FileID": 0,
+    "m_PathID": -325611287487577195
+  },
+  "bg": {
+    "m_FileID": 0,
+    "m_PathID": -4591984839475091692
+  },
+  "stateIcon": {
+    "m_FileID": 0,
+    "m_PathID": 3028329302075578987
+  },
+  "receivedObj": {
+    "m_FileID": 0,
+    "m_PathID": 1631240353868230541
+  },
+  "claimButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -6224020160521552492
+  },
+  "adClaimButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 2990834692427903642
+  },
+  "readButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 6609218263807343393
+  },
+  "newObj": {
+    "m_FileID": 0,
+    "m_PathID": -9032165081203026218
+  },
+  "rewardObj": {
+    "m_FileID": 0,
+    "m_PathID": 954937997153435617
+  },
+  "rewardIcon": {
+    "m_FileID": 0,
+    "m_PathID": -1533685356994342706
+  },
+  "rewardAmount": {
+    "m_FileID": 0,
+    "m_PathID": -5312570510296338243
+  }
+}

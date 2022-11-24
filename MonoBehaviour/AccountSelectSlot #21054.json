@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8792529483198270561
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7425898210070801857
+  },
+  "m_Name": "",
+  "boxNormalSprite": {
+    "m_FileID": 0,
+    "m_PathID": 3173709252670571792
+  },
+  "boxSelectedSprite": {
+    "m_FileID": 0,
+    "m_PathID": -5010950518195700411
+  },
+  "colorBoxNormal": {
+    "r": 0.407843143,
+    "g": 0.396078438,
+    "b": 0.5921569,
+    "a": 1.0
+  },
+  "colorBoxSelected": {
+    "r": 0.282352954,
+    "g": 0.239215687,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "imgBox": {
+    "m_FileID": 0,
+    "m_PathID": 8878912601936170113
+  },
+  "imgSlimeIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4363980376720386398
+  },
+  "goSelectedBox": {
+    "m_FileID": 0,
+    "m_PathID": -7427905521522012390
+  },
+  "goSelectedCheck": {
+    "m_FileID": 0,
+    "m_PathID": 6318201967100980556
+  },
+  "imgAccountTypeBox": {
+    "m_FileID": 0,
+    "m_PathID": 2719188439564160714
+  },
+  "txtAccountType": {
+    "m_FileID": 0,
+    "m_PathID": -2011683401590873877
+  },
+  "txtStage": {
+    "m_FileID": 0,
+    "m_PathID": -338993922455365994
+  },
+  "txtCombatPower": {
+    "m_FileID": 0,
+    "m_PathID": 7587450213412327487
+  },
+  "txtLastPlayed": {
+    "m_FileID": 0,
+    "m_PathID": 7262452484710461256
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3658398384072814370
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "SlimeInfoButton",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 2294121670369093297
+    },
+    "worldPosition": {
+      "x": -5.579323,
+      "y": -2.85847545,
+      "z": 90.0
+    },
+    "rectSize": {
+      "x": 90.0,
+      "y": 90.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 1
+  }
+}

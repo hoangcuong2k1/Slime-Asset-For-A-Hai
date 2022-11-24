@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 597724355609988307
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2610169370545150031
+  },
+  "m_Name": "",
+  "txtTime": {
+    "m_FileID": 0,
+    "m_PathID": -6329817955563073653
+  },
+  "ignoreTimeScale": 1,
+  "usePrefix": 1,
+  "prefixFormat": "MAIL_EXPIRE_TIME",
+  "formatType": 0
+}

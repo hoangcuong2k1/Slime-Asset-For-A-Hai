@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "10006_slime_skill_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 8257989068004009047
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -418004259333221794
+    }
+  ]
+}

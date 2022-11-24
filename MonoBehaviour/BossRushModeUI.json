@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6249350552912376542
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7620122993831969275
+  },
+  "m_Name": "",
+  "currentStage": {
+    "m_FileID": 0,
+    "m_PathID": -4496488306614378484
+  },
+  "killCountText": {
+    "m_FileID": 0,
+    "m_PathID": 8881040503151381947
+  },
+  "timeText": {
+    "m_FileID": 0,
+    "m_PathID": 3753709356209928201
+  },
+  "needlePivot": {
+    "m_FileID": 0,
+    "m_PathID": -3118056859802992029
+  }
+}

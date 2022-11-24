@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4598063742976588820
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4788470710720099497
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -7627400407653016226
+  },
+  "artifactName": {
+    "m_FileID": 0,
+    "m_PathID": 577879237504758541
+  },
+  "artifactLevel": {
+    "m_FileID": 0,
+    "m_PathID": 1142597499989436674
+  },
+  "artifactDesc": {
+    "m_FileID": 0,
+    "m_PathID": 217545911236842449
+  },
+  "artifactBonusDesc": {
+    "m_FileID": 0,
+    "m_PathID": -8507670813077883803
+  },
+  "upgradePriceText": {
+    "m_FileID": 0,
+    "m_PathID": -8015116492895527589
+  },
+  "upgradeButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 8656570433392913560
+  },
+  "upgradeButtonBg": {
+    "m_FileID": 0,
+    "m_PathID": 7757930349153474037
+  },
+  "artifactIcon": {
+    "m_FileID": 0,
+    "m_PathID": 4978466633393042784
+  },
+  "noHaveTextColor": {
+    "r": 0.9450981,
+    "g": 0.345098048,
+    "b": 0.447058856,
+    "a": 1.0
+  },
+  "increaseValueDescColor": {
+    "r": 0.109803922,
+    "g": 1.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "enabledEquipButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 1817041367781035878
+  },
+  "disabledEquipButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 2964252515681361320
+  },
+  "noHaveButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 3506428689467616852
+  },
+  "artifactSlotName": {
+    "m_FileID": 0,
+    "m_PathID": -4836286733100686420
+  },
+  "artifactSlots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2490153813938106981
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7965324637346006459
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3676045497641874184
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 560965600878382633
+    }
+  ]
+}

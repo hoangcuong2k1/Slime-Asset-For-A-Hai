@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5147334725008773115
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1863417233077693969
+  },
+  "m_Name": "",
+  "cellPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 5460687687085012211
+  },
+  "padding": {
+    "m_Left": 0,
+    "m_Right": 0,
+    "m_Top": 10,
+    "m_Bottom": 10
+  },
+  "spacing": {
+    "x": 0.0,
+    "y": 50.0
+  },
+  "cancelDragIfFits": 0,
+  "isGrid": 0,
+  "gridCount": 0,
+  "isCenter": 0,
+  "tweenDuration": 0.5
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "20121_frog_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -8750032368974058799
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4697000801106146726
+    }
+  ]
+}

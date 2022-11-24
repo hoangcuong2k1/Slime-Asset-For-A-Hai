@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9004812794465398820
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 802382936087043725
+  },
+  "m_Name": "",
+  "context": {
+    "m_FileID": 0,
+    "m_PathID": -3533776072877753419
+  },
+  "slimeRewardSlot": {
+    "m_FileID": 0,
+    "m_PathID": 1313946167290696783
+  }
+}

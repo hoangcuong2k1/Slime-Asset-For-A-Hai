@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6513050349276123252
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "GachaWeapon",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 7085477940767384091
+    },
+    "worldPosition": {
+      "x": -108.5,
+      "y": -57.3057251,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 153.9599,
+      "y": 71.7439
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

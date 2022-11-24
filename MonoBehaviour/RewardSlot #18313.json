@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1535502910623770745
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 39785036435944799
+  },
+  "m_Name": "",
+  "imgIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5725716994683181191
+  },
+  "imgRairty": {
+    "m_FileID": 0,
+    "m_PathID": 4301120447169379028
+  },
+  "txtAmount": {
+    "m_FileID": 0,
+    "m_PathID": -1324928183012317788
+  },
+  "txtAmountBonus": {
+    "m_FileID": 0,
+    "m_PathID": 7486887471685879614
+  },
+  "equipmentTypeIcon": {
+    "m_FileID": 0,
+    "m_PathID": 8952837330837884235
+  }
+}

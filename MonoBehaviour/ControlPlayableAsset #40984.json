@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3129360023083613528
+  },
+  "m_Name": "ControlPlayableAsset",
+  "sourceGameObject": {
+    "exposedName": "95284782",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "prefabGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "updateParticle": 1,
+  "particleRandomSeed": 5830,
+  "updateDirector": 1,
+  "updateITimeControl": 1,
+  "searchHierarchy": 0,
+  "active": 1,
+  "postPlayback": 2
+}

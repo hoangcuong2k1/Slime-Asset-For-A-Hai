@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8307649375311594958
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8259145856937920043
+  },
+  "m_Name": "",
+  "goDarkCloud": {
+    "m_FileID": 0,
+    "m_PathID": 2263944891799347730
+  },
+  "goThunderVfx": {
+    "m_FileID": 0,
+    "m_PathID": -8463301402552828056
+  },
+  "sfx": {
+    "m_FileID": 2,
+    "m_PathID": 5520232857614556316
+  },
+  "damageArea": {
+    "x": 2.0,
+    "y": 2.0
+  },
+  "cloudSpeedCap": 40.0
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -76628266132814252
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2610169370545150031
+  },
+  "m_Name": "",
+  "txtTime": {
+    "m_FileID": 0,
+    "m_PathID": 7691345892291681724
+  },
+  "ignoreTimeScale": 1,
+  "usePrefix": 0,
+  "prefixFormat": "REMAIN_TIME",
+  "formatType": 1
+}

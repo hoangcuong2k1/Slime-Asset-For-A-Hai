@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3661845676540713321
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "Static Bonus",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -2398159857986539806
+    },
+    "worldPosition": {
+      "x": 360.0,
+      "y": 628.0,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 534.0,
+      "y": 48.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

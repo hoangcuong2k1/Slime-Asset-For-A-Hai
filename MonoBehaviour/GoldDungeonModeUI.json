@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5640988151577070327
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 749744102625655865
+  },
+  "m_Name": "",
+  "currentStage": {
+    "m_FileID": 0,
+    "m_PathID": 5616015734128902155
+  },
+  "timeText": {
+    "m_FileID": 0,
+    "m_PathID": -494031038203701994
+  },
+  "needlePivot": {
+    "m_FileID": 0,
+    "m_PathID": -3309201276715683180
+  },
+  "goldText": {
+    "m_FileID": 0,
+    "m_PathID": -1218040166415512461
+  },
+  "vfxDamaged": {
+    "m_FileID": 0,
+    "m_PathID": 3954104889571308879
+  }
+}

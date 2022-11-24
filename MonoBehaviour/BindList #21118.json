@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1187735715588010799
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2765568706372599266
+  },
+  "m_Name": "",
+  "m_ItemKey": "item",
+  "m_ItemPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "useLeanPool": 1,
+  "useLeanGameObjectPool": 1,
+  "gameObjectPool": {
+    "m_FileID": 0,
+    "m_PathID": 5655407396892161862
+  },
+  "m_Key": "SelectListItems"
+}

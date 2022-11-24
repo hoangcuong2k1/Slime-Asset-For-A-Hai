@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6150375331797803417
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8962903080549542158
+  },
+  "m_Name": "",
+  "localizeKey": "DAILY_GEM_RICH_SPEECH2",
+  "fontMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overrideFonts": []
+}

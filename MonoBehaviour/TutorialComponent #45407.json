@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4631415310524404346
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "Health Regen Button",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -217849230708559186
+    },
+    "worldPosition": {
+      "x": 228.975174,
+      "y": -173.992859,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 215.5279,
+      "y": 88.6374
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": -25.0
+    },
+    "alignment": 4
+  }
+}

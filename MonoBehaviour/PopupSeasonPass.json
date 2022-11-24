@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 722494513543689235
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3125976372698625645
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "root": {
+    "m_FileID": 0,
+    "m_PathID": 2819480348457249902
+  },
+  "titleText": {
+    "m_FileID": 0,
+    "m_PathID": 8163952269966114401
+  },
+  "layerDeco": {
+    "m_FileID": 0,
+    "m_PathID": -7354552101720826402
+  },
+  "remainTimeView": {
+    "m_FileID": 0,
+    "m_PathID": 5036557447345836211
+  },
+  "barExp": {
+    "m_FileID": 0,
+    "m_PathID": -4271690184363038620
+  },
+  "txtLevel": {
+    "m_FileID": 0,
+    "m_PathID": 3957169091902477073
+  },
+  "txtExp": {
+    "m_FileID": 0,
+    "m_PathID": 4959886505359023763
+  },
+  "tmLevelUpFx": {
+    "m_FileID": 0,
+    "m_PathID": 4488836488389518476
+  },
+  "prefabLevelUpFx": {
+    "m_FileID": 0,
+    "m_PathID": -6892367883637561317
+  },
+  "txtPremiumCost": {
+    "m_FileID": 0,
+    "m_PathID": 1232866460380775611
+  },
+  "txtPremiumValue": {
+    "m_FileID": 0,
+    "m_PathID": 8150876704535287501
+  },
+  "goPremiumValue": {
+    "m_FileID": 0,
+    "m_PathID": -4499671972858264867
+  },
+  "rewardPanel": {
+    "m_FileID": 0,
+    "m_PathID": 4631406092853288273
+  },
+  "questPanel": {
+    "m_FileID": 0,
+    "m_PathID": -1841049404123877637
+  },
+  "mainRewardNavigateButton": {
+    "m_FileID": 0,
+    "m_PathID": -4332421994458140012
+  },
+  "rewardToggle": {
+    "m_FileID": 0,
+    "m_PathID": -3956399272605853566
+  },
+  "goNextSeason": {
+    "m_FileID": 0,
+    "m_PathID": -6511186222723576592
+  },
+  "nextSeasonIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7986222064082636758
+  }
+}

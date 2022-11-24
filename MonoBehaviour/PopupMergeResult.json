@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5406255797318996348
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3552430288416470443
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": -8436240465586541275
+  },
+  "scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 8661572542606059706
+  },
+  "contentTop": {
+    "m_FileID": 0,
+    "m_PathID": 7489837547184699708
+  },
+  "goArrow": {
+    "m_FileID": 0,
+    "m_PathID": -7221712663784330691
+  },
+  "contentBottom": {
+    "m_FileID": 0,
+    "m_PathID": -1308110312274027346
+  },
+  "btnOk": {
+    "m_FileID": 0,
+    "m_PathID": -5416201818853914465
+  },
+  "slotPool": {
+    "m_FileID": 0,
+    "m_PathID": 8260440711054902189
+  },
+  "rewardSfx": {
+    "m_FileID": 0,
+    "m_PathID": -5599797519441250985
+  }
+}

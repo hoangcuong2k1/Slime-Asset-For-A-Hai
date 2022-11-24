@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5273402860890815004
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8289292018623735391
+  },
+  "m_Name": "",
+  "batPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 7437611435263527342
+  },
+  "bombProjectilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2788903518284695939
+  },
+  "fireArea": {
+    "x": 3.41,
+    "y": 2.63
+  },
+  "damageArea": {
+    "x": 2.0,
+    "y": 1.5
+  }
+}

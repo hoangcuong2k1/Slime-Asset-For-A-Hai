@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2143093869856147167
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6123169558156748996
+  },
+  "m_Name": "",
+  "txtName": {
+    "m_FileID": 0,
+    "m_PathID": 9053802287574484551
+  },
+  "txtLevel": {
+    "m_FileID": 0,
+    "m_PathID": -6501514814753955243
+  },
+  "txtValue": {
+    "m_FileID": 0,
+    "m_PathID": 6935389003015881299
+  },
+  "bgButton": {
+    "m_FileID": 0,
+    "m_PathID": -6337592677862606220
+  },
+  "txtCost": {
+    "m_FileID": 0,
+    "m_PathID": 7066413221786370499
+  },
+  "txtUpgrade": {
+    "m_FileID": 0,
+    "m_PathID": 4223206651476361821
+  },
+  "layerLock": {
+    "m_FileID": 0,
+    "m_PathID": -5849534148051124994
+  },
+  "txtLockDesc": {
+    "m_FileID": 0,
+    "m_PathID": 255709121576181866
+  },
+  "upgradeButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": -4365307958612509033
+  },
+  "maxButtonObj": {
+    "m_FileID": 0,
+    "m_PathID": 353969178016054795
+  },
+  "levelUpFxImage": {
+    "m_FileID": 0,
+    "m_PathID": 1601957820858584242
+  }
+}

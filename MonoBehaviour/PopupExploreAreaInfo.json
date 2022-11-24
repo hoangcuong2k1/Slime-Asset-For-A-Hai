@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4231729242642362996
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6815289970178257321
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 8475104582251950554
+  },
+  "defaultConditionColor": {
+    "r": 0.862745166,
+    "g": 0.7725491,
+    "b": 0.6117647,
+    "a": 1.0
+  },
+  "bonusConditionColor": {
+    "r": 1.0,
+    "g": 0.8980393,
+    "b": 0.223529428,
+    "a": 1.0
+  },
+  "nonBonusConditionColor": {
+    "r": 1.0,
+    "g": 0.270588249,
+    "b": 0.270588249,
+    "a": 1.0
+  },
+  "dataBindContext": {
+    "m_FileID": 0,
+    "m_PathID": -7250325496848546090
+  },
+  "tfUpgradeButton": {
+    "m_FileID": 0,
+    "m_PathID": -2876311346185963443
+  },
+  "upgradeSfx": {
+    "m_FileID": 42,
+    "m_PathID": -1446509943795938472
+  }
+}

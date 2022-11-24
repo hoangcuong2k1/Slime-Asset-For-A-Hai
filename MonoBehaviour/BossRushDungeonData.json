@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7366290571601817769
+  },
+  "m_Name": "BossRushDungeonData",
+  "currencyType": 4,
+  "maxTicket": 20,
+  "refillTicket": 2,
+  "useAdRefill": 1,
+  "maxAdCount": 2,
+  "adType": 9,
+  "dungeonInfoUIPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -1653311438316965529
+  },
+  "dungeonEntranceAnimatorPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -8369767464135592950
+  },
+  "backgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 9220371862821033889
+  },
+  "ticketIconSprite": {
+    "m_FileID": 0,
+    "m_PathID": 4581201547516748471
+  },
+  "popupBannerSprite": {
+    "m_FileID": 0,
+    "m_PathID": -4504730778130550726
+  },
+  "nameKey": "DUNGEON_NAME_BOSSRUSH",
+  "descKey": "DUNGEON_DESC_BOSSRUSH"
+}

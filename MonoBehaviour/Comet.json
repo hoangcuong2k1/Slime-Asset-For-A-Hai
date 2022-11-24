@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -954385309361983702
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8217372461227582105
+  },
+  "m_Name": "",
+  "vfxComet": {
+    "m_FileID": 0,
+    "m_PathID": 7022038450331592604
+  },
+  "vfxExplosion": {
+    "m_FileID": 0,
+    "m_PathID": 2191306996218762220
+  },
+  "vfxNova": {
+    "m_FileID": 0,
+    "m_PathID": 6991123958770230222
+  },
+  "damageTicks": 5,
+  "damageRadius": 5.0,
+  "fallSpeed": 22.0,
+  "sfxFall": {
+    "m_FileID": 0,
+    "m_PathID": 5351582982234030655
+  }
+}

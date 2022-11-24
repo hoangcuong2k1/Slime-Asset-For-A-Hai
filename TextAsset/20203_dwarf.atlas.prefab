@@ -1,0 +1,146 @@
+
+20203_dwarf.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard
+  rotate: true
+  xy: 110, 269
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1, 1
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 140, 333
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 106, 195
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 92, 129
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 1, 127
+  size: 89, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Face_hair
+  rotate: true
+  xy: 80, 44
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 121, 5
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: false
+  xy: 1, 266
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 113, 407
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 80, 6
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 129, 85
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: false
+  xy: 136, 152
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 140, 301
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 113, 364
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 113, 450
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Sh
+  rotate: false
+  xy: 1, 56
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: false
+  xy: 129, 45
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: true
+  xy: 1, 197
+  size: 67, 103
+  orig: 67, 103
+  offset: 0, 0
+  index: -1
+W2
+  rotate: false
+  xy: 1, 340
+  size: 110, 149
+  orig: 110, 149
+  offset: 0, 0
+  index: -1

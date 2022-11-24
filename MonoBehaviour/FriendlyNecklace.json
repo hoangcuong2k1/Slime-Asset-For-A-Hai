@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4072817462061074467
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7940527565000319292
+  },
+  "m_Name": "",
+  "useSkillRef": {
+    "m_AssetGUID": "9dc0074f10e0a6843892016d50a49ace",
+    "m_SubObjectName": "",
+    "m_SubObjectType": ""
+  }
+}

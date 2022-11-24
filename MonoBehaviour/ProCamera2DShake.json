@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 16
+  },
+  "m_Name": "",
+  "_pc2D": {
+    "m_FileID": 0,
+    "m_PathID": 38
+  },
+  "ShakePresets": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 21
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 19
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 20
+    }
+  ],
+  "ConstantShakePresets": [],
+  "StartConstantShakePreset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CurrentConstantShakePreset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

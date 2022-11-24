@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6634690564952520512
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 4,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "Open Research Button",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": 766428258447311895
+    },
+    "worldPosition": {
+      "x": 558.5,
+      "y": 274.5,
+      "z": 0.0
+    },
+    "rectSize": {
+      "x": 165.0,
+      "y": 100.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

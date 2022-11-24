@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6633731779222961003
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8424434887891118308
+  },
+  "m_Name": "",
+  "rtBody": {
+    "m_FileID": 0,
+    "m_PathID": 4627360029201465158
+  },
+  "txtTitle": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 2018043546881693959
+  },
+  "prefabSlot": {
+    "m_FileID": 0,
+    "m_PathID": -1554539155429995638
+  },
+  "rewardSfx": {
+    "m_FileID": 0,
+    "m_PathID": -7281945295929628626
+  },
+  "txtGold": {
+    "m_FileID": 0,
+    "m_PathID": -6615822462262205154
+  }
+}

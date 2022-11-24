@@ -1,0 +1,112 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3239804069890092482
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1578755072864384144
+  },
+  "m_Name": "",
+  "gcEmptyIcon": {
+    "m_FileID": 0,
+    "m_PathID": 905689907425444158
+  },
+  "goFullLight": {
+    "m_FileID": 0,
+    "m_PathID": -2851365598297670472
+  },
+  "imgInnerCircle": {
+    "m_FileID": 0,
+    "m_PathID": 1419248930597197472
+  },
+  "imgOuterCircle": {
+    "m_FileID": 0,
+    "m_PathID": -2819232447210382526
+  },
+  "gaugeFillImage": {
+    "m_FileID": 0,
+    "m_PathID": -2819971587156545928
+  },
+  "txtEarnAmount": {
+    "m_FileID": 0,
+    "m_PathID": 6366667199049826621
+  },
+  "imgEarnIcon": {
+    "m_FileID": 0,
+    "m_PathID": -3599501611434696572
+  },
+  "imgEarnIconEffect": {
+    "m_FileID": 0,
+    "m_PathID": 6717561845696542240
+  },
+  "imgFullIcon": {
+    "m_FileID": 0,
+    "m_PathID": -33098534309326939
+  },
+  "imgNotReadyIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5790689091655333190
+  },
+  "scaleBase": {
+    "m_FileID": 0,
+    "m_PathID": -566717260839101520
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -294120018817785630
+  },
+  "redDotImage": {
+    "m_FileID": 0,
+    "m_PathID": 7277946787126033630
+  },
+  "emptyInColor": {
+    "r": 0.298039228,
+    "g": 0.2901961,
+    "b": 0.411764741,
+    "a": 1.0
+  },
+  "emptyOutColor": {
+    "r": 0.46274513,
+    "g": 0.454902,
+    "b": 0.6039216,
+    "a": 1.0
+  },
+  "progressInColor": {
+    "r": 0.180392161,
+    "g": 0.168627456,
+    "b": 0.156862751,
+    "a": 1.0
+  },
+  "progressOutColor": {
+    "r": 0.305882365,
+    "g": 0.3529412,
+    "b": 0.2392157,
+    "a": 1.0
+  },
+  "fullInColor": {
+    "r": 0.435294151,
+    "g": 0.400000036,
+    "b": 0.2392157,
+    "a": 1.0
+  },
+  "fullOutColor": {
+    "r": 1.0,
+    "g": 0.850980461,
+    "b": 0.164705887,
+    "a": 1.0
+  },
+  "NotReadyInColor": {
+    "r": 0.235294133,
+    "g": 0.482352972,
+    "b": 0.21960786,
+    "a": 1.0
+  },
+  "NotReadyOutColor": {
+    "r": 0.396078467,
+    "g": 0.6901961,
+    "b": 0.368627459,
+    "a": 1.0
+  }
+}

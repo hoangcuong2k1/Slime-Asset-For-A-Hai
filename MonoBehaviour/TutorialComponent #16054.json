@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1934151221272273964
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2252140159486941644
+  },
+  "m_Name": "",
+  "model": {
+    "id": "ExploreEquipSlimeButton",
+    "textID": "",
+    "transform": {
+      "m_FileID": 0,
+      "m_PathID": -1339426748945475277
+    },
+    "worldPosition": {
+      "x": 0.0,
+      "y": -4.530218,
+      "z": 90.0
+    },
+    "rectSize": {
+      "x": 226.5,
+      "y": 100.0
+    },
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cursorAdditionalOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "alignment": 4
+  }
+}

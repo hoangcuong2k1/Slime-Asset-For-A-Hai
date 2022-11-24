@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3942848095084696212
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8962903080549542158
+  },
+  "m_Name": "",
+  "localizeKey": "DIFFICULTY",
+  "fontMaterial": {
+    "m_FileID": 4,
+    "m_PathID": 1373387614849308315
+  },
+  "overrideFonts": []
+}

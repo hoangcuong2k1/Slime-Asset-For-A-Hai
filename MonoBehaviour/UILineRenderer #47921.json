@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6081947022987212340
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5123524508901222334
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 35,
+    "m_PathID": 1262072027612254391
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 0,
+  "m_RaycastPadding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_Sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_improveResolution": 0,
+  "m_Resolution": 0.0,
+  "m_useNativeSize": 0,
+  "m_points": [
+    {
+      "x": 0.0,
+      "y": 0.0
+    }
+  ],
+  "lineThickness": 15.0,
+  "relativeSize": 0,
+  "lineList": 0,
+  "lineCaps": 0,
+  "bezierSegmentsPerCurve": 0,
+  "LineJoins": 0,
+  "BezierMode": 0,
+  "drivenExternally": 0
+}
